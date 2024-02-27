@@ -1,0 +1,8 @@
+﻿Krishan
+* MCB Departmental News
+   * Accessed via RSS Everything
+   * Possibly congregate other departmental news together into one feed
+* Bay area news (NBC bay area)
+   * Accessed via Web News API
+* WEATHER API
+   * Accessed via API
