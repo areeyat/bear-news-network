@@ -1,0 +1,17 @@
+hello! feel free to use this folder as a practice space
+
+some ideas on how to practice: 
+- create a text file with the nano command
+- type some things in file
+- add and commit
+- change some things in file
+- add and commit
+- revert the state of the text file to the first commit
+
+resources for learning git:
+
+https://education.github.com/git-cheat-sheet-education.pdf
+https://docs.github.com/en/get-started/start-your-journey/hello-world
+https://www.youtube.com/watch?v=e9lnsKot_SQ
+
+
