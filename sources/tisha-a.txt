@@ -1,0 +1,9 @@
+### Sources
+
+Berkeley Department of Mathematics News
+        - RSS Everything 
+Reddit (r/bayarea)
+        - Reddit API
+The San Francisco Standard 
+        - RSS Feeds                                          
+        - Link: https://sfstandard.com/rss-feeds/
