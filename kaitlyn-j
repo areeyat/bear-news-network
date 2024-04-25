@@ -1,0 +1,45 @@
+import requests
+import csv
+from bs4 import BeautifulSoup, SoupStrainer
+
+# using requests to get data
+# get method returns response object
+haasnews_response = requests.get('https://newsroom.haas.berkeley.edu/browse-all/')
+
+# check response from url
+# in this case success code 200
+print(haasnews_response)
+
+# gets source code from response
+haasnews_html = haasnews_response.text
+###print(haasnews_html)
+
+# opens or creates html file to be read or written to
+haasnews_file = open('haasnews.html','r+')
+#print(haasnews_file)
+haasnews_file.write(haasnews_html)
+###print(haasnews_file)
+
+# creates BS object for parsing
+haasnews_bs = BeautifulSoup(haasnews_html, "html.parser")
+
+###print(haasnews_bs)
+
+print(haasnews_bs.prettify())
+print(haasnews_file.read())
+
+# collects all the stuff within the h2 html tag
+headlines = haasnews_bs.find_all('h3')
+# will still include the tags, so you will have to
+# clean the text accordingly however you want
+# write a method, etc
+
+print(haasnews_bs.h3)
+
+# and then insert the data into the csv
+haasnews_csv = open('haasnews_webscrape.csv', 'w')
+csvwriter = csv.writer(haasnews_csv)
+csvwriter.writerow(['headline'])
+
+for h in headlines:
+    csvwriter.writerow([h])

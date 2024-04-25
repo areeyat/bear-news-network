@@ -1,0 +1,2193 @@
+<!doctype html>
+<html lang="en-US" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:addthis="https://www.addthis.com/help/api-spec" >
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-53VC4QK');</script>
+	<!-- End Google Tag Manager -->
+
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v22.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Newsroom | Haas News | Berkeley Haas</title>
+	<link rel="canonical" href="https://newsroom.haas.berkeley.edu/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Newsroom | Haas News | Berkeley Haas" />
+	<meta property="og:url" content="https://newsroom.haas.berkeley.edu/" />
+	<meta property="og:site_name" content="Haas News | Berkeley Haas" />
+	<meta property="article:publisher" content="https://www.facebook.com/BerkeleyHaas/" />
+	<meta property="article:modified_time" content="2024-03-06T19:39:46+00:00" />
+	<meta property="og:image" content="https://newsroom.haas.berkeley.edu/wp-content/uploads/2021/08/AP_21213132913666-scaled.jpg" />
+	<meta property="og:image:width" content="3000" />
+	<meta property="og:image:height" content="1999" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@BerkeleyHaas" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://newsroom.haas.berkeley.edu/","url":"https://newsroom.haas.berkeley.edu/","name":"Newsroom | Haas News | Berkeley Haas","isPartOf":{"@id":"https://newsroom.haas.berkeley.edu/#website"},"about":{"@id":"https://newsroom.haas.berkeley.edu/#organization"},"primaryImageOfPage":{"@id":"https://newsroom.haas.berkeley.edu/#primaryimage"},"image":{"@id":"https://newsroom.haas.berkeley.edu/#primaryimage"},"thumbnailUrl":"https://newsroom.haas.berkeley.edu/wp-content/uploads/2021/08/AP_21213132913666-scaled.jpg","datePublished":"2019-12-18T01:53:25+00:00","dateModified":"2024-03-06T19:39:46+00:00","breadcrumb":{"@id":"https://newsroom.haas.berkeley.edu/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://newsroom.haas.berkeley.edu/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://newsroom.haas.berkeley.edu/#primaryimage","url":"https://newsroom.haas.berkeley.edu/wp-content/uploads/2021/08/AP_21213132913666-scaled.jpg","contentUrl":"https://newsroom.haas.berkeley.edu/wp-content/uploads/2021/08/AP_21213132913666-scaled.jpg","width":3000,"height":1999,"caption":"Ryan Murphy, BS 17 (left), and USA swimming teammatesCaeleb Dressel, Zach Apple, and Michael Andrew won gold in the men's 4 x 100 m medley on August 1. Photo: Oliver Weiken/picture-alliance/dpa/AP Images"},{"@type":"BreadcrumbList","@id":"https://newsroom.haas.berkeley.edu/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://newsroom.haas.berkeley.edu/#website","url":"https://newsroom.haas.berkeley.edu/","name":"Haas News | Berkeley Haas","description":"News &amp; research insights from the Haas School of Business at UC Berkeley","publisher":{"@id":"https://newsroom.haas.berkeley.edu/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://newsroom.haas.berkeley.edu/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://newsroom.haas.berkeley.edu/#organization","name":"Haas School of Business | UC Berkeley","url":"https://newsroom.haas.berkeley.edu/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://newsroom.haas.berkeley.edu/#/schema/logo/image/","url":"https://newsroom.haas.berkeley.edu/wp-content/uploads/2017/05/berkeley-haas-informal-logo-transparent.png","contentUrl":"https://newsroom.haas.berkeley.edu/wp-content/uploads/2017/05/berkeley-haas-informal-logo-transparent.png","width":180,"height":45,"caption":"Haas School of Business | UC Berkeley"},"image":{"@id":"https://newsroom.haas.berkeley.edu/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/BerkeleyHaas/","https://twitter.com/BerkeleyHaas","https://www.instagram.com/berkeleyhaas/","https://www.linkedin.com/school/2519?pathWildcard=2519","https://www.youtube.com/user/UCBerkeleyHaas"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//kit.fontawesome.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//use.typekit.net' />
+<link rel="alternate" type="application/rss+xml" title="Haas News | Berkeley Haas &raquo; Feed" href="https://newsroom.haas.berkeley.edu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Haas News | Berkeley Haas &raquo; Comments Feed" href="https://newsroom.haas.berkeley.edu/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/newsroom.haas.berkeley.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.3"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='wgs-css' href='https://newsroom.haas.berkeley.edu/wp-content/plugins/wp-google-search/wgs.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wgs2-css' href='https://newsroom.haas.berkeley.edu/wp-content/plugins/wp-google-search/wgs2.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery.prettyphoto-css' href='https://newsroom.haas.berkeley.edu/wp-content/plugins/wp-video-lightbox/css/prettyPhoto.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='video-lightbox-css' href='https://newsroom.haas.berkeley.edu/wp-content/plugins/wp-video-lightbox/wp-video-lightbox.css?ver=6.4.3' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://newsroom.haas.berkeley.edu/wp-includes/css/dist/block-library/style.min.css?ver=6.4.3' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='widgetopts-styles-css' href='https://newsroom.haas.berkeley.edu/wp-content/plugins/widget-options/assets/css/widget-options.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css-css' href='https://newsroom.haas.berkeley.edu/wp-content/plugins/wordpress-popular-posts/assets/css/wpp.css?ver=6.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-roboto-css' href='//fonts.googleapis.com/css?family=Roboto+Condensed%3A300%7CRoboto%3A300%2C400%2C400i%2C500%2C700%2C700i&#038;ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='haas-header-footer-css' href='https://newsroom.haas.berkeley.edu/wp-content/themes/haas-newsroom/css/haas-header-footer.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='haas-newsroom-typekit-css' href='https://use.typekit.net/pwy5rfd.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='haas-newsroom-style-css' href='https://newsroom.haas.berkeley.edu/wp-content/themes/haas-newsroom/style.css?ver=20230922-1' type='text/css' media='screen' />
+<link rel='stylesheet' id='haas-newsroom-fancybox-style-css' href='https://newsroom.haas.berkeley.edu/wp-content/themes/haas-newsroom/js/fancybox-master/dist/jquery.fancybox.min.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='haas-newsroom-chosen-style-css' href='https://newsroom.haas.berkeley.edu/wp-content/themes/haas-newsroom/js/chosen/chosen.min.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='searchwp-forms-css' href='https://newsroom.haas.berkeley.edu/wp-content/plugins/searchwp/assets/css/frontend/search-forms.css?ver=4.3.13' type='text/css' media='all' />
+<link rel='stylesheet' id='addthis_all_pages-css' href='https://newsroom.haas.berkeley.edu/wp-content/plugins/addthis/frontend/build/addthis_wordpress_public.min.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='srpw-style-css' href='https://newsroom.haas.berkeley.edu/wp-content/plugins/smart-recent-posts-widget/assets/css/srpw-frontend.css?ver=6.4.3' type='text/css' media='all' />
+<script type="text/javascript" src="https://newsroom.haas.berkeley.edu/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://newsroom.haas.berkeley.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://newsroom.haas.berkeley.edu/wp-content/plugins/wp-video-lightbox/js/jquery.prettyPhoto.js?ver=3.1.6" id="jquery.prettyphoto-js"></script>
+<script type="text/javascript" id="video-lightbox-js-extra">
+/* <![CDATA[ */
+var vlpp_vars = {"prettyPhoto_rel":"wp-video-lightbox","animation_speed":"fast","slideshow":"5000","autoplay_slideshow":"false","opacity":"0.80","show_title":"true","allow_resize":"true","allow_expand":"true","default_width":"640","default_height":"480","counter_separator_label":"\/","theme":"pp_default","horizontal_padding":"20","hideflash":"false","wmode":"opaque","autoplay":"false","modal":"false","deeplinking":"false","overlay_gallery":"true","overlay_gallery_max":"30","keyboard_shortcuts":"true","ie6_fallback":"true"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://newsroom.haas.berkeley.edu/wp-content/plugins/wp-video-lightbox/js/video-lightbox.js?ver=3.1.6" id="video-lightbox-js"></script>
+<script type="text/javascript" src="https://newsroom.haas.berkeley.edu/wp-content/plugins/wp-hide-post/public/js/wp-hide-post-public.js?ver=2.0.11" id="wp-hide-post-js"></script>
+<script type="application/json" id="wpp-json">
+
+{"sampling_active":0,"sampling_rate":100,"ajax_url":"https:\/\/newsroom.haas.berkeley.edu\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","api_url":"https:\/\/newsroom.haas.berkeley.edu\/wp-json\/wordpress-popular-posts","ID":0,"token":"e57822fcaa","lang":0,"debug":0}
+
+</script>
+<script type="text/javascript" src="https://newsroom.haas.berkeley.edu/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=6.4.1" id="wpp-js-js"></script>
+<link rel="https://api.w.org/" href="https://newsroom.haas.berkeley.edu/wp-json/" /><link rel="alternate" type="application/json" href="https://newsroom.haas.berkeley.edu/wp-json/wp/v2/pages/10421" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://newsroom.haas.berkeley.edu/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://newsroom.haas.berkeley.edu/' />
+<link rel="alternate" type="application/json+oembed" href="https://newsroom.haas.berkeley.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnewsroom.haas.berkeley.edu%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://newsroom.haas.berkeley.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnewsroom.haas.berkeley.edu%2F&#038;format=xml" />
+<script>
+            WP_VIDEO_LIGHTBOX_VERSION="1.9.10";
+            WP_VID_LIGHTBOX_URL="https://newsroom.haas.berkeley.edu/wp-content/plugins/wp-video-lightbox";
+                        function wpvl_paramReplace(name, string, value) {
+                // Find the param with regex
+                // Grab the first character in the returned string (should be ? or &)
+                // Replace our href string with our new value, passing on the name and delimeter
+
+                var re = new RegExp("[\?&]" + name + "=([^&#]*)");
+                var matches = re.exec(string);
+                var newString;
+
+                if (matches === null) {
+                    // if there are no params, append the parameter
+                    newString = string + '?' + name + '=' + value;
+                } else {
+                    var delimeter = matches[0].charAt(0);
+                    newString = string.replace(re, delimeter + name + "=" + value);
+                }
+                return newString;
+            }
+            </script>            <style id="wpp-loading-animation-styles">@-webkit-keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}@keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}.wpp-widget-placeholder,.wpp-widget-block-placeholder,.wpp-shortcode-placeholder{margin:0 auto;width:60px;height:3px;background:#dd3737;background:linear-gradient(90deg,#dd3737 0%,#571313 10%,#dd3737 100%);background-size:200% auto;border-radius:3px;-webkit-animation:bgslide 1s infinite linear;animation:bgslide 1s infinite linear}</style>
+            <link rel="icon" href="https://newsroom.haas.berkeley.edu/wp-content/uploads/2018/05/cropped-blue-gold-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://newsroom.haas.berkeley.edu/wp-content/uploads/2018/05/cropped-blue-gold-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://newsroom.haas.berkeley.edu/wp-content/uploads/2018/05/cropped-blue-gold-180x180.png" />
+<meta name="msapplication-TileImage" content="https://newsroom.haas.berkeley.edu/wp-content/uploads/2018/05/cropped-blue-gold-270x270.png" />
+</head>
+
+<body class="home page-template page-template-page-lp-newsroom page-template-page-lp-newsroom-php page page-id-10421 do-etfw">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-53VC4QK"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+			<header id="header" role="banner">
+			<div class="container">
+				<nav id="header-navigation-group" role="navigation" aria-label="Main Menu">
+					<p class="site-logo">
+						<a href="https://haas.berkeley.edu">
+							<span class="screen-reader-text">Berkeley Haas</span>
+						</a>
+					</p>
+					<div id="main-menu">
+													<div id="main-menu-wrapper" class="menu-site-navigation-container">
+
+														
+<ul id="menu-mini-site-navigation" class="dropdown-menu-parent menu">
+	<li class="title-5 mini-site-name">
+		Newsroom	</li>
+	<li class="current-page">
+		<a href="https://newsroom.haas.berkeley.edu">
+			Home			<span class="screen-reader-text">
+				Haas News | Berkeley Haasof "" Section			</span>
+		</a>
+	</li>
+
+	<li id="menu-item-11350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-10421 current_page_item menu-item-11350"><a href="https://newsroom.haas.berkeley.edu/" aria-current="page">News Home</a></li>
+<li id="menu-item-11348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11348"><a href="https://newsroom.haas.berkeley.edu/browse-all/">Browse All</a></li>
+<li id="menu-item-11349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11349"><a href="https://newsroom.haas.berkeley.edu/research/">Research &#038; Insights</a></li>
+<li id="menu-item-18727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18727"><a href="https://newsroom.haas.berkeley.edu/haas-in-the-news/">Haas in the News</a></li>
+<li id="menu-item-21291" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-21291"><a href="https://newsroom.haas.berkeley.edu/issue/current/"><span class="icon mobile-left-icon fal fa-chevron-left"></span> Magazine <span class="icon mobile-right-icon fal fa-chevron-right"></span></a>
+
+            <div class="sub-menu-container">
+                <div class="container">
+                    <ul class="group-menu"
+        >
+	<li id="menu-item-11352" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11352"><a href="https://newsroom.haas.berkeley.edu/issue/current/"><strong>Featured Stories</strong></a></li>
+	<li id="menu-item-11658" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11658"><a href="https://newsroom.haas.berkeley.edu/past-issues/"><strong>Past Issues</strong></a></li>
+	<li id="menu-item-11365" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11365"><a href="https://newsroom.haas.berkeley.edu/alumni-notes/"><strong>Submit an Alumni Note</strong></a></li>
+
+                    </ul>
+                </div>
+            </div>
+            
+</li>
+<li id="menu-item-11362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11362"><a href="https://newsroom.haas.berkeley.edu/media-contacts/">Media Contacts</a></li>
+<li id="menu-item-11361" class="li-search-form menu-item menu-item-type-custom menu-item-object-custom menu-item-11361"><a href="#"><i class="far fa-search"></i><form role="search" method="get" class="search-form" action="/">
+				<div class="search-box">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search …" value="" name="s">
+				</label>
+				<input type="submit" class="search-submit" value="Search Newsroom">
+				</div>
+			</form></a></li>
+</ul>
+
+								<ul id="menu-site-navigation" class="menu-wide-dropdowns menu
+" role="menu">
+			<li class="menu-item-has-children fullwidth-submenu" role="menuitem">
+			<a 
+				href="#"
+				target="" 
+				rel="noopener"
+							aria-haspopup="true"
+				aria-expanded="false"
+						>
+									<span class="icon mobile-left-icon fal fa-chevron-left"></span>
+				
+				<span class="link-text">About Haas</span>
+
+									<span class="icon mobile-right-icon fal fa-chevron-right"></span>
+					<span class="icon desktop-down-icon fal fa-angle-down"></span>
+							</a>
+
+							<div class="sub-menu-container">
+					<div class="container">
+						<div class="row">
+															<div class="menu-column col-lg-3">
+																												<div class="row">
+																							<div class="column col-lg-12">
+																																									<ul class="group-menu" role="menu">
+																<li class="" role="menuitem">
+																																																			<h3 id="group-menu-about-haas-overview-71041" class="menu-title">
+																			<a class="read-more" href="https://haas.berkeley.edu/about/" target="" rel="noopener">	
+																	
+																	About Haas Overview
+																	
+																																				</a>
+																		</h3>
+																																	
+																																</li>
+															</ul>
+														
+																																										<ul class="group-menu" role="menu">
+																<li class="menu-item-has-children" role="menuitem">
+																																																			<h3 id="group-menu-the-haas-difference-30434" class="menu-title">
+																			<a class="" href="https://haas.berkeley.edu/about/the-haas-difference/" target="" rel="noopener">	
+																	
+																	The Haas Difference
+																																			<span class="icon mobile-inactive fal fa-plus"></span>
+																		<span class="icon mobile-active fal fa-minus"></span>
+																	
+																																				</a>
+																		</h3>
+																																	
+																																		<ul aria-describedby="group-menu-the-haas-difference-30434" class="group-sub-menu 
+																																					sub-menu
+																			">
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/about/the-haas-difference/our-culture/" target="" rel="noopener">
+																						Our Culture																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/about/the-haas-difference/location/" target="" rel="noopener">
+																						Our Location																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/about/the-haas-difference/developing-leaders/" target="" rel="noopener">
+																						Developing Leaders																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/about/the-haas-difference/diversity/" target="" rel="noopener">
+																						Diversity & Inclusion																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/sustainability/" target="" rel="noopener">
+																						Sustainability																					</a>
+																				</li>
+																																					</ul>
+																																	</li>
+															</ul>
+														
+																																										<ul class="group-menu" role="menu">
+																<li class="menu-item-has-children" role="menuitem">
+																																																			<h3 id="group-menu-the-student-experien-52885" class="menu-title">
+																			<a class="" href="https://haas.berkeley.edu/about/the-student-experience/" target="" rel="noopener">	
+																	
+																	The Student Experience
+																																			<span class="icon mobile-inactive fal fa-plus"></span>
+																		<span class="icon mobile-active fal fa-minus"></span>
+																	
+																																				</a>
+																		</h3>
+																																	
+																																		<ul aria-describedby="group-menu-the-student-experien-52885" class="group-sub-menu 
+																																					sub-menu
+																			">
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/about/the-student-experience/academic-approach/" target="" rel="noopener">
+																						Academic Approach																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/about/the-student-experience/career-development/" target="" rel="noopener">
+																						Career Development																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/about/the-student-experience/learn-from-business-leaders/" target="" rel="noopener">
+																						Learn from Business Leaders																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/about/the-student-experience/corporate-partners-recruiters/" target="" rel="noopener">
+																						Corporate Recruiters																					</a>
+																				</li>
+																																					</ul>
+																																	</li>
+															</ul>
+														
+																									</div>
+																					</div>
+																	</div>
+															<div class="menu-column col-lg-3">
+																												<div class="row">
+																							<div class="column col-lg-12">
+																																									<ul class="group-menu" role="menu">
+																<li class="menu-item-has-children" role="menuitem">
+																																																			<h3 id="group-menu-speaker-series-15654" class="menu-title">
+																			<a class="" href="https://haas.berkeley.edu/about/speaker-series/" target="" rel="noopener">	
+																	
+																	Speaker Series
+																																			<span class="icon mobile-inactive fal fa-plus"></span>
+																		<span class="icon mobile-active fal fa-minus"></span>
+																	
+																																				</a>
+																		</h3>
+																																	
+																																		<ul aria-describedby="group-menu-speaker-series-15654" class="group-sub-menu 
+																																					sub-menu
+																			">
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/about/speaker-series/deans-speaker-series/" target="" rel="noopener">
+																						Dean's Speaker Series																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/about/speaker-series/new-thinking/" target="" rel="noopener">
+																						New Thinking at Berkeley Haas																					</a>
+																				</li>
+																																					</ul>
+																																	</li>
+															</ul>
+														
+																																										<ul class="group-menu" role="menu">
+																<li class="menu-item-has-children" role="menuitem">
+																																																			<h3 id="group-menu-at-a-glance-92042" class="menu-title">
+																			<a class="" href="https://haas.berkeley.edu/about/at-a-glance/" target="" rel="noopener">	
+																	
+																	At a Glance
+																																			<span class="icon mobile-inactive fal fa-plus"></span>
+																		<span class="icon mobile-active fal fa-minus"></span>
+																	
+																																				</a>
+																		</h3>
+																																	
+																																		<ul aria-describedby="group-menu-at-a-glance-92042" class="group-sub-menu 
+																																					sub-menu
+																			">
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/about/at-a-glance/history/" target="" rel="noopener">
+																						Our History																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/about/at-a-glance/our-campus/" target="" rel="noopener">
+																						Our Campus																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/about/at-a-glance/acclaimed-alumni/" target="" rel="noopener">
+																						Acclaimed Alumni																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/about/at-a-glance/commencement-speakers/" target="" rel="noopener">
+																						Commencement Speakers																					</a>
+																				</li>
+																																					</ul>
+																																	</li>
+															</ul>
+														
+																									</div>
+																					</div>
+																	</div>
+															<div class="menu-column col-lg-3">
+																												<div class="row">
+																							<div class="column col-lg-12">
+																																									<ul class="group-menu" role="menu">
+																<li class="menu-item-has-children" role="menuitem">
+																																																			<h3 id="group-menu-our-leadership-77711" class="menu-title">
+																			<a class="" href="https://haas.berkeley.edu/about/leadership/" target="" rel="noopener">	
+																	
+																	Our Leadership
+																																			<span class="icon mobile-inactive fal fa-plus"></span>
+																		<span class="icon mobile-active fal fa-minus"></span>
+																	
+																																				</a>
+																		</h3>
+																																	
+																																		<ul aria-describedby="group-menu-our-leadership-77711" class="group-sub-menu 
+																																					sub-menu
+																			">
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/about/leadership/dean-ann-harrison/" target="" rel="noopener">
+																						Dean Ann Harrison																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/about/leadership/school-board/" target="" rel="noopener">
+																						Haas School Board																					</a>
+																				</li>
+																																					</ul>
+																																	</li>
+															</ul>
+														
+																									</div>
+																					</div>
+																	</div>
+															<div class="menu-column col-lg-3">
+																												<div class="row">
+																							<div class="column col-lg-12">
+																																									<ul class="group-menu" role="menu">
+																<li class="menu-item-has-children" role="menuitem">
+																
+																																		<ul aria-describedby="group-menu-our-leadership-77711" class="group-sub-menu 
+																																					open-sub-menu">
+																																							<li role="menuitem">
+																					<a class="button menu-button blue-ghost-button" href="https://haas.berkeley.edu/about/contact/" target="" rel="noopener">
+																						Contact Haas																					</a>
+																				</li>
+																																					</ul>
+																																	</li>
+															</ul>
+														
+																									</div>
+																					</div>
+																	</div>
+													</div>
+					</div>
+				</div>
+					</li>
+			<li class="menu-item-has-children fullwidth-submenu" role="menuitem">
+			<a 
+				href="#"
+				target="" 
+				rel="noopener"
+							aria-haspopup="true"
+				aria-expanded="false"
+						>
+									<span class="icon mobile-left-icon fal fa-chevron-left"></span>
+				
+				<span class="link-text">Programs</span>
+
+									<span class="icon mobile-right-icon fal fa-chevron-right"></span>
+					<span class="icon desktop-down-icon fal fa-angle-down"></span>
+							</a>
+
+							<div class="sub-menu-container">
+					<div class="container">
+						<div class="row">
+															<div class="menu-column col-lg-6">
+																												<div class="row">
+																							<div class="column col-lg-6">
+																																									<ul class="group-menu" role="menu">
+																<li class="menu-item-has-children" role="menuitem">
+																																																			<span id="group-menu-mba-69265" class="menu-title ">	
+																	
+																	MBA
+																																			<span class="icon mobile-inactive fal fa-plus"></span>
+																		<span class="icon mobile-active fal fa-minus"></span>
+																	
+																																			</span>
+																																	
+																																		<ul aria-describedby="group-menu-mba-69265" class="group-sub-menu 
+																																					sub-menu
+																			">
+																																							<li role="menuitem">
+																					<a class="" href="https://mba.haas.berkeley.edu/" target="" rel="noopener">
+																						Full-Time MBA																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://ewmba.haas.berkeley.edu/" target="" rel="noopener">
+																						Evening & Weekend MBA																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="http://mbaforexecs.haas.berkeley.edu/" target="" rel="noopener">
+																						MBA for Executives																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/programs/compare-mba-programs/" target="" rel="noopener">
+																						Compare the MBA Programs																					</a>
+																				</li>
+																																					</ul>
+																																	</li>
+															</ul>
+														
+																																										<ul class="group-menu" role="menu">
+																<li class="menu-item-has-children" role="menuitem">
+																																																			<span id="group-menu-other-graduate-60478" class="menu-title ">	
+																	
+																	Other Graduate
+																																			<span class="icon mobile-inactive fal fa-plus"></span>
+																		<span class="icon mobile-active fal fa-minus"></span>
+																	
+																																			</span>
+																																	
+																																		<ul aria-describedby="group-menu-other-graduate-60478" class="group-sub-menu 
+																																					sub-menu
+																			">
+																																							<li role="menuitem">
+																					<a class="" href="http://mfe.berkeley.edu/" target="" rel="noopener">
+																						Master of Financial Engineering																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/phd/" target="" rel="noopener">
+																						PhD																					</a>
+																				</li>
+																																					</ul>
+																																	</li>
+															</ul>
+														
+																									</div>
+																							<div class="column col-lg-6">
+																																									<ul class="group-menu" role="menu">
+																<li class="menu-item-has-children" role="menuitem">
+																																																			<span id="group-menu-undergraduate-14279" class="menu-title ">	
+																	
+																	Undergraduate
+																																			<span class="icon mobile-inactive fal fa-plus"></span>
+																		<span class="icon mobile-active fal fa-minus"></span>
+																	
+																																			</span>
+																																	
+																																		<ul aria-describedby="group-menu-undergraduate-14279" class="group-sub-menu 
+																																					sub-menu
+																			">
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/Undergrad" target="" rel="noopener">
+																						Bachelor of Science in Business																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="http://met.berkeley.edu/" target="" rel="noopener">
+																						Berkeley M.E.T. (Management, Entrepreneurship, & Technology)																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/gmp/" target="" rel="noopener">
+																						Global Management Program																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://lsbe.berkeley.edu/" target="" rel="noopener">
+																						Robinson Life Sciences Business and Entrepreneurship Program																					</a>
+																				</li>
+																																					</ul>
+																																	</li>
+															</ul>
+														
+																																										<ul class="group-menu" role="menu">
+																<li class="menu-item-has-children" role="menuitem">
+																																																			<span id="group-menu-certificate-programs-18340" class="menu-title ">	
+																	
+																	Certificate Programs
+																																			<span class="icon mobile-inactive fal fa-plus"></span>
+																		<span class="icon mobile-active fal fa-minus"></span>
+																	
+																																			</span>
+																																	
+																																		<ul aria-describedby="group-menu-certificate-programs-18340" class="group-sub-menu 
+																																					sub-menu
+																			">
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/base/" target="" rel="noopener">
+																						BASE Summer Program for Non-business Majors																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/accounting/accounting-berkeley/bcpa/" target="" rel="noopener">
+																						BCPA Accounting Summer Program																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://extension.berkeley.edu/international/programs/bhgap/" target="" rel="noopener">
+																						Berkeley Haas Global Access Program																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/sustainability/curriculum/graduate-certificate/" target="" rel="noopener">
+																						Michaels Graduate Certificate in Sustainable Business																					</a>
+																				</li>
+																																					</ul>
+																																	</li>
+															</ul>
+														
+																									</div>
+																					</div>
+																	</div>
+															<div class="menu-column col-lg-6">
+																												<div class="row">
+																							<div class="column col-lg-6">
+																																									<ul class="group-menu" role="menu">
+																<li class="menu-item-has-children" role="menuitem">
+																																																			<span id="group-menu-pre-college-17164" class="menu-title ">	
+																	
+																	Pre-College
+																																			<span class="icon mobile-inactive fal fa-plus"></span>
+																		<span class="icon mobile-active fal fa-minus"></span>
+																	
+																																			</span>
+																																	
+																																		<ul aria-describedby="group-menu-pre-college-17164" class="group-sub-menu 
+																																					sub-menu
+																			">
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/boost/" target="" rel="noopener">
+																						Boost@Berkeley Haas																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/business-academy/" target="" rel="noopener">
+																						Berkeley Business Academy for Youth																					</a>
+																				</li>
+																																					</ul>
+																																	</li>
+															</ul>
+														
+																																										<ul class="group-menu" role="menu">
+																<li class="menu-item-has-children" role="menuitem">
+																																																			<span id="group-menu-executive-education-72583" class="menu-title ">	
+																	
+																	Executive Education
+																																			<span class="icon mobile-inactive fal fa-plus"></span>
+																		<span class="icon mobile-active fal fa-minus"></span>
+																	
+																																			</span>
+																																	
+																																		<ul aria-describedby="group-menu-executive-education-72583" class="group-sub-menu 
+																																					sub-menu
+																			">
+																																							<li role="menuitem">
+																					<a class="" href="http://executive.berkeley.edu/" target="" rel="noopener">
+																						Executive Education																					</a>
+																				</li>
+																																					</ul>
+																																	</li>
+															</ul>
+														
+																									</div>
+																							<div class="column col-lg-6">
+																																									<ul class="group-menu" role="menu">
+																<li class="menu-item-has-children" role="menuitem">
+																
+																																		<ul aria-describedby="group-menu-executive-education-72583" class="group-sub-menu 
+																																					open-sub-menu">
+																																							<li role="menuitem">
+																					<a class="button menu-button blue-ghost-button" href="https://haas.berkeley.edu/programs/" target="" rel="noopener">
+																						All Programs																					</a>
+																				</li>
+																																					</ul>
+																																	</li>
+															</ul>
+														
+																									</div>
+																					</div>
+																	</div>
+													</div>
+					</div>
+				</div>
+					</li>
+			<li class="menu-item-has-children" role="menuitem">
+			<a 
+				href="#"
+				target="" 
+				rel="noopener"
+							aria-haspopup="true"
+				aria-expanded="false"
+						>
+									<span class="icon mobile-left-icon fal fa-chevron-left"></span>
+				
+				<span class="link-text">News</span>
+
+									<span class="icon mobile-right-icon fal fa-chevron-right"></span>
+					<span class="icon desktop-down-icon fal fa-angle-down"></span>
+							</a>
+
+							<div class="sub-menu-container">
+					<div class="container">
+						<div class="row">
+															<div class="menu-column col-lg-12">
+																												<div class="row">
+																							<div class="column col-lg-12">
+																																									<ul class="group-menu" role="menu">
+																<li class="menu-item-has-children" role="menuitem">
+																
+																																		<ul aria-describedby="group-menu-executive-education-72583" class="group-sub-menu 
+																																					open-sub-menu">
+																																							<li role="menuitem">
+																					<a class="" href="https://newsroom.haas.berkeley.edu/" target="" rel="noopener">
+																						Newsroom																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://newsroom.haas.berkeley.edu/research/" target="" rel="noopener">
+																						Research & Insights																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://newsroom.haas.berkeley.edu/issue/current/" target="" rel="noopener">
+																						Magazine																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="http://newsroom.haas.berkeley.edu/media-contacts/" target="" rel="noopener">
+																						Media Contacts																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/experts/" target="" rel="noopener">
+																						Faculty Experts																					</a>
+																				</li>
+																																					</ul>
+																																	</li>
+															</ul>
+														
+																									</div>
+																					</div>
+																	</div>
+													</div>
+					</div>
+				</div>
+					</li>
+			<li class="menu-item-has-children fullwidth-submenu" role="menuitem">
+			<a 
+				href="#"
+				target="" 
+				rel="noopener"
+							aria-haspopup="true"
+				aria-expanded="false"
+						>
+									<span class="icon mobile-left-icon fal fa-chevron-left"></span>
+				
+				<span class="link-text">Faculty Research & Centers</span>
+
+									<span class="icon mobile-right-icon fal fa-chevron-right"></span>
+					<span class="icon desktop-down-icon fal fa-angle-down"></span>
+							</a>
+
+							<div class="sub-menu-container">
+					<div class="container">
+						<div class="row">
+															<div class="menu-column col-lg-3">
+																												<div class="row">
+																							<div class="column col-lg-12">
+																																									<ul class="group-menu" role="menu">
+																<li class="" role="menuitem">
+																																																			<h3 id="group-menu-faculty-research-cen-77174" class="menu-title">
+																			<a class="read-more" href="https://haas.berkeley.edu/faculty-research/" target="" rel="noopener">	
+																	
+																	Faculty Research & Centers Overview
+																	
+																																				</a>
+																		</h3>
+																																	
+																																</li>
+															</ul>
+														
+																																										<ul class="group-menu" role="menu">
+																<li class="menu-item-has-children" role="menuitem">
+																																																			<span id="group-menu-faculty-directories-77648" class="menu-title ">	
+																	
+																	Faculty Directories
+																																			<span class="icon mobile-inactive fal fa-plus"></span>
+																		<span class="icon mobile-active fal fa-minus"></span>
+																	
+																																			</span>
+																																	
+																																		<ul aria-describedby="group-menu-faculty-directories-77648" class="group-sub-menu 
+																																					sub-menu
+																			">
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/faculty" target="" rel="noopener">
+																						Faculty Directory																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/faculty-research/academic-groups/" target="" rel="noopener">
+																						Academic Groups																					</a>
+																				</li>
+																																					</ul>
+																																	</li>
+															</ul>
+														
+																									</div>
+																					</div>
+																	</div>
+															<div class="menu-column col-lg-3">
+																												<div class="row">
+																							<div class="column col-lg-12">
+																																									<ul class="group-menu" role="menu">
+																<li class="menu-item-has-children" role="menuitem">
+																																																			<span id="group-menu-research-53869" class="menu-title ">	
+																	
+																	Research
+																																			<span class="icon mobile-inactive fal fa-plus"></span>
+																		<span class="icon mobile-active fal fa-minus"></span>
+																	
+																																			</span>
+																																	
+																																		<ul aria-describedby="group-menu-research-53869" class="group-sub-menu 
+																																					sub-menu
+																			">
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/faculty-research/research-institutes-and-centers/" target="" rel="noopener">
+																						Research Institutes & Centers																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/faculty-research/initiatives/" target="" rel="noopener">
+																						Faculty Initiatives																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://cases.haas.berkeley.edu/" target="_blank" rel="noopener">
+																						Case Studies																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/faculty-research/research-labs/" target="" rel="noopener">
+																						Research Labs																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://cmr.berkeley.edu/" target="_blank" rel="noopener">
+																						California Management Review																					</a>
+																				</li>
+																																					</ul>
+																																	</li>
+															</ul>
+														
+																									</div>
+																					</div>
+																	</div>
+															<div class="menu-column col-lg-3">
+																												<div class="row">
+																							<div class="column col-lg-12">
+																																									<ul class="group-menu" role="menu">
+																<li class="menu-item-has-children" role="menuitem">
+																																																			<span id="group-menu-about-our-faculty-39310" class="menu-title ">	
+																	
+																	About Our Faculty
+																																			<span class="icon mobile-inactive fal fa-plus"></span>
+																		<span class="icon mobile-active fal fa-minus"></span>
+																	
+																																			</span>
+																																	
+																																		<ul aria-describedby="group-menu-about-our-faculty-39310" class="group-sub-menu 
+																																					sub-menu
+																			">
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/faculty-research/nobel-laureates/" target="" rel="noopener">
+																						Nobel Laureates																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/faculty-research/teaching-awards/" target="" rel="noopener">
+																						Teaching Awards																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/faculty-research/visiting-executives-and-scholars/" target="" rel="noopener">
+																						Visiting Executives & Scholars																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/faculty-research/public-policy/" target="" rel="noopener">
+																						Faculty in Public Policy																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/faculty-research/faculty-recruitment/" target="" rel="noopener">
+																						Faculty Recruitment																					</a>
+																				</li>
+																																					</ul>
+																																	</li>
+															</ul>
+														
+																									</div>
+																					</div>
+																	</div>
+															<div class="menu-column col-lg-3">
+																												<div class="row">
+																							<div class="column col-lg-12">
+																																									<ul class="group-menu" role="menu">
+																<li class="menu-item-has-children" role="menuitem">
+																
+																																		<ul aria-describedby="group-menu-about-our-faculty-39310" class="group-sub-menu 
+																																					open-sub-menu">
+																																							<li role="menuitem">
+																					<a class="button menu-button blue-ghost-button" href="https://haas.berkeley.edu/faculty/" target="" rel="noopener">
+																						Faculty Directory																					</a>
+																				</li>
+																																					</ul>
+																																	</li>
+															</ul>
+														
+																									</div>
+																					</div>
+																	</div>
+													</div>
+					</div>
+				</div>
+					</li>
+			<li class="menu-item-has-children fullwidth-submenu" role="menuitem">
+			<a 
+				href="#"
+				target="" 
+				rel="noopener"
+							aria-haspopup="true"
+				aria-expanded="false"
+						>
+									<span class="icon mobile-left-icon fal fa-chevron-left"></span>
+				
+				<span class="link-text">Alumni & Giving</span>
+
+									<span class="icon mobile-right-icon fal fa-chevron-right"></span>
+					<span class="icon desktop-down-icon fal fa-angle-down"></span>
+							</a>
+
+							<div class="sub-menu-container">
+					<div class="container">
+						<div class="row">
+															<div class="menu-column col-lg-3">
+																												<div class="row">
+																							<div class="column col-lg-12">
+																																									<ul class="group-menu" role="menu">
+																<li class="" role="menuitem">
+																																																			<h3 id="group-menu-alumni-home-46288" class="menu-title">
+																			<a class="read-more" href="https://haas.berkeley.edu/alumni/" target="" rel="noopener">	
+																	
+																	Alumni Home 
+																	
+																																				</a>
+																		</h3>
+																																	
+																																</li>
+															</ul>
+														
+																																										<ul class="group-menu" role="menu">
+																<li class="menu-item-has-children" role="menuitem">
+																																																			<span id="group-menu-alumni-network-83995" class="menu-title ">	
+																	
+																	Alumni Network
+																																			<span class="icon mobile-inactive fal fa-plus"></span>
+																		<span class="icon mobile-active fal fa-minus"></span>
+																	
+																																			</span>
+																																	
+																																		<ul aria-describedby="group-menu-alumni-network-83995" class="group-sub-menu 
+																																					sub-menu
+																			">
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/alumni/alumni-network/" target="" rel="noopener">
+																						Alumni Network																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/alumni/alumni-network/affinitygroups/" target="" rel="noopener">
+																						Chapters, Groups, & Networks																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/alumni/alumni-network/slack-workspace/" target="" rel="noopener">
+																						Slack Alumni Workspace																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/alumni/alumni-network/alumni-directory/" target="" rel="noopener">
+																						Alumni Directory																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/alumni/alumni-network/email/" target="" rel="noopener">
+																						Email (Alumni Email Services)																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/alumni/alumni-network/student-alumni-connections/new-alumni/" target="" rel="noopener">
+																						Student-Alumni Connections																					</a>
+																				</li>
+																																					</ul>
+																																	</li>
+															</ul>
+														
+																									</div>
+																					</div>
+																	</div>
+															<div class="menu-column col-lg-3">
+																												<div class="row">
+																							<div class="column col-lg-12">
+																																									<ul class="group-menu" role="menu">
+																<li class="menu-item-has-children" role="menuitem">
+																																																			<span id="group-menu-professional-resourc-72323" class="menu-title ">	
+																	
+																	Professional Resources
+																																			<span class="icon mobile-inactive fal fa-plus"></span>
+																		<span class="icon mobile-active fal fa-minus"></span>
+																	
+																																			</span>
+																																	
+																																		<ul aria-describedby="group-menu-professional-resourc-72323" class="group-sub-menu 
+																																					sub-menu
+																			">
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/alumni/career/" target="" rel="noopener">
+																						Professional Resources																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/alumni/career/undergraduate-and-graduate/" target="" rel="noopener">
+																						For BS, MA, MFE, & PhD Alumni																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/alumni/career/mba/" target="" rel="noopener">
+																						For MBA Alumni 																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/alumni/career/employers/" target="" rel="noopener">
+																						Hire Haas																					</a>
+																				</li>
+																																					</ul>
+																																	</li>
+															</ul>
+														
+																																										<ul class="group-menu" role="menu">
+																<li class="menu-item-has-children" role="menuitem">
+																																																			<span id="group-menu-lifelong-learning-54733" class="menu-title ">	
+																	
+																	Lifelong Learning
+																																			<span class="icon mobile-inactive fal fa-plus"></span>
+																		<span class="icon mobile-active fal fa-minus"></span>
+																	
+																																			</span>
+																																	
+																																		<ul aria-describedby="group-menu-lifelong-learning-54733" class="group-sub-menu 
+																																					sub-menu
+																			">
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/alumni/learning/" target="" rel="noopener">
+																						Lifelong Learning																					</a>
+																				</li>
+																																					</ul>
+																																	</li>
+															</ul>
+														
+																									</div>
+																					</div>
+																	</div>
+															<div class="menu-column col-lg-3">
+																												<div class="row">
+																							<div class="column col-lg-12">
+																																									<ul class="group-menu" role="menu">
+																<li class="menu-item-has-children" role="menuitem">
+																																																			<span id="group-menu-events-86175" class="menu-title ">	
+																	
+																	Events
+																																			<span class="icon mobile-inactive fal fa-plus"></span>
+																		<span class="icon mobile-active fal fa-minus"></span>
+																	
+																																			</span>
+																																	
+																																		<ul aria-describedby="group-menu-events-86175" class="group-sub-menu 
+																																					sub-menu
+																			">
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/alumni/events/" target="" rel="noopener">
+																						Worldwide Alumni Events Calendar																					</a>
+																				</li>
+																																					</ul>
+																																	</li>
+															</ul>
+														
+																																										<ul class="group-menu" role="menu">
+																<li class="menu-item-has-children" role="menuitem">
+																																																			<span id="group-menu-volunteer-46508" class="menu-title ">	
+																	
+																	Volunteer
+																																			<span class="icon mobile-inactive fal fa-plus"></span>
+																		<span class="icon mobile-active fal fa-minus"></span>
+																	
+																																			</span>
+																																	
+																																		<ul aria-describedby="group-menu-volunteer-46508" class="group-sub-menu 
+																																					sub-menu
+																			">
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/alumni/volunteer/" target="" rel="noopener">
+																						Volunteer																					</a>
+																				</li>
+																																					</ul>
+																																	</li>
+															</ul>
+														
+																																										<ul class="group-menu" role="menu">
+																<li class="menu-item-has-children" role="menuitem">
+																																																			<span id="group-menu-give-34546" class="menu-title ">	
+																	
+																	Give
+																																			<span class="icon mobile-inactive fal fa-plus"></span>
+																		<span class="icon mobile-active fal fa-minus"></span>
+																	
+																																			</span>
+																																	
+																																		<ul aria-describedby="group-menu-give-34546" class="group-sub-menu 
+																																					sub-menu
+																			">
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/giving/" target="_blank" rel="noopener">
+																						Give to Berkeley Haas																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/giving/impact-and-recognition/" target="" rel="noopener">
+																						Impact &amp; Recognition																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/giving/donor-societies/" target="" rel="noopener">
+																						Haas Leadership Society																					</a>
+																				</li>
+																																							<li role="menuitem">
+																					<a class="" href="https://haas.berkeley.edu/giving/how-to-give/" target="" rel="noopener">
+																						How to Give																					</a>
+																				</li>
+																																					</ul>
+																																	</li>
+															</ul>
+														
+																									</div>
+																					</div>
+																	</div>
+															<div class="menu-column col-lg-3">
+																												<div class="row">
+																							<div class="column col-lg-12">
+																																									<div class="action-block">
+																<div class="bg-image-wrap">
+																<img width="300" height="300" src="https://haas.berkeley.edu/wp-content/uploads/panos-3.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://haas.berkeley.edu/wp-content/uploads/panos-3.jpg 3000w, https://haas.berkeley.edu/wp-content/uploads/panos-3-200x200.jpg 200w, https://haas.berkeley.edu/wp-content/uploads/panos-3-768x768.jpg 768w, https://haas.berkeley.edu/wp-content/uploads/panos-3-600x600.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />																	<div class="overlay"></div>
+																</div>
+																<div class="action-text">
+																																		<p class="action-title">Give to Haas</p>
+																		<hr>
+																																																			<p class="action-subtitle">Your investments drive excellence</p>
+																	
+																																		<a href="https://haas.berkeley.edu/giving/" class="blue-overlay-button menu-button button" target="" rel="noopener">
+																			Give Now																		</a>
+																																	</div>
+															</div>
+
+															
+																									</div>
+																					</div>
+																	</div>
+													</div>
+					</div>
+				</div>
+					</li>
+	</ul>
+
+
+							</div>
+											</div>
+
+					<div class="search-form-container" id="mobile-toggler">
+						<button class="not-button search-toggle" data-toggle="mobile-header-search">
+							<span class="icon far fa-search toggle-default"></span>
+							<span class="icon fal fa-times toggle-active"></span>
+							<span class="screen-reader-text">Toggle Search</span>
+						</button>
+					</div>
+					<div class="search-form-container" id="header-search">
+						<button class="not-button search-toggle" data-toggle="header-search" value="Toggle Search">
+							<span class="icon far fa-search toggle-default"></span>
+							<span class="icon fal fa-times toggle-active"></span>
+							<span class="screen-reader-text">Toggle Search</span>
+						</button>
+						<form role="search" method="get" class="form-inset-button search-form" action="https://haas.berkeley.edu/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search Berkeley Haas" value="" name="s" title="Search for:" />
+	</label>
+
+	
+	<button type="submit" class="submit-button stealth-button">
+		<span class="fal fa-search"></span> 
+		<span class="screen-reader-text">Search</span>
+	</button>
+</form>					</div>
+
+					<div class="hamburger">
+						<div class="top bar"></div>
+						<div class="middle bar"></div>
+						<div class="bottom bar"></div>
+					</div>
+				</nav>
+			</div><!-- .container -->
+			<div id="mobile-header-search">
+				<div class="container">
+					<form role="search" method="get" class="form-inset-button search-form" action="https://haas.berkeley.edu/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search Berkeley Haas" value="" name="s" title="Search for:" />
+	</label>
+
+	
+	<button type="submit" class="submit-button stealth-button">
+		<span class="fal fa-search"></span> 
+		<span class="screen-reader-text">Search</span>
+	</button>
+</form>				</div>
+			</div>
+		</header>	
+		<div id="mini-site-header" class="mini-site-header">
+		<div class="mini-site-header-container">
+			<div class="container">
+				<nav class="mini-site-nav">
+					<h1 class="title-5 mini-site-title">
+						<a href="https://newsroom.haas.berkeley.edu">
+							Newsroom						</a>
+					</h1>
+
+					<ul id="mini-site-menu" class="menu-wide-dropdowns menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-10421 current_page_item menu-item-11350"><a href="https://newsroom.haas.berkeley.edu/" aria-current="page">News Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11348"><a href="https://newsroom.haas.berkeley.edu/browse-all/">Browse All</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11349"><a href="https://newsroom.haas.berkeley.edu/research/">Research &#038; Insights</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18727"><a href="https://newsroom.haas.berkeley.edu/haas-in-the-news/">Haas in the News</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-21291"><a href="https://newsroom.haas.berkeley.edu/issue/current/">Magazine <span class="desktop-down-icon icon fal fa-angle-down"></span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11352"><a href="https://newsroom.haas.berkeley.edu/issue/current/"><strong>Featured Stories</strong></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11658"><a href="https://newsroom.haas.berkeley.edu/past-issues/"><strong>Past Issues</strong></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11365"><a href="https://newsroom.haas.berkeley.edu/alumni-notes/"><strong>Submit an Alumni Note</strong></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11362"><a href="https://newsroom.haas.berkeley.edu/media-contacts/">Media Contacts</a></li>
+<li class="li-search-form menu-item menu-item-type-custom menu-item-object-custom menu-item-11361"><a href="#"><i class="far fa-search"></i><form role="search" method="get" class="search-form" action="/">
+				<div class="search-box">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search …" value="" name="s">
+				</label>
+				<input type="submit" class="search-submit" value="Search Newsroom">
+				</div>
+			</form></a></li>
+</ul>
+									</nav>
+			</div>
+		</div>
+	</div>
+
+<div id="content-wrapper">
+	
+	
+	
+	<div id="content" class="site-content global-container">
+
+<div id="primary" class="content-area">
+	<main id="main" class="site-main">
+
+			
+			<div id="content-block-1">
+				<div class="col-left">
+					<section id="widget-featured-news" class="widget widget-featured-news">
+						<div class="widget-inner">
+							<h2 class="widget-title">Latest News</h2>
+								<div class="widget-content">
+
+										<!--FEATURED POST-->
+										<div class="featured-main">
+											
+																									
+<div class="featured-content-wrap ">
+	<div class="featured-image">
+			<a target="_self" href="https://newsroom.haas.berkeley.edu/new-center-aims-to-create-healthcare-innovation-research-to-impact-pipeline/"><img width="764" height="554" src="https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/03/Professor-Jonathan-Kolstad_CHMI-764x554.jpg" class="attachment-rectangle-2 size-rectangle-2 wp-post-image" alt="" decoding="async" srcset="https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/03/Professor-Jonathan-Kolstad_CHMI-764x554.jpg 764w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/03/Professor-Jonathan-Kolstad_CHMI-300x218.jpg 300w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/03/Professor-Jonathan-Kolstad_CHMI-1100x798.jpg 1100w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/03/Professor-Jonathan-Kolstad_CHMI-200x145.jpg 200w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/03/Professor-Jonathan-Kolstad_CHMI-768x557.jpg 768w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/03/Professor-Jonathan-Kolstad_CHMI-1536x1114.jpg 1536w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/03/Professor-Jonathan-Kolstad_CHMI-2048x1485.jpg 2048w" sizes="(max-width: 764px) 100vw, 764px" /></a>
+	</div>
+	<div class="featured-content">
+
+									<p class="kicker">Innovation</p>
+					
+
+					<h3 class="featured-title test"><a target="_self" href="https://newsroom.haas.berkeley.edu/new-center-aims-to-create-healthcare-innovation-research-to-impact-pipeline/">New center aims to create healthcare innovation research-to-impact pipeline</a></h3>
+		
+		<!--<p class="title"></p>-->
+
+		
+		
+		<!--OUTPUT FACULTY NAME-->
+				<!--END OUTPUT FACULTY NAME-->
+
+						<p class="last-line">March 6, 2024</p>
+		
+			</div>
+</div>
+																									
+<div class="featured-content-wrap ">
+	<div class="featured-image">
+			<a target="_self" href="https://newsroom.haas.berkeley.edu/berkeley-haas-to-host-2025-climatecap-summit/"><img width="764" height="554" src="https://newsroom.haas.berkeley.edu/wp-content/uploads/2022/04/Harrison-de-Nevers-764x554.png" class="attachment-rectangle-2 size-rectangle-2 wp-post-image" alt="two women with their arms folded. They&#039;re smiling" decoding="async" srcset="https://newsroom.haas.berkeley.edu/wp-content/uploads/2022/04/Harrison-de-Nevers.png 764w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2022/04/Harrison-de-Nevers-300x218.png 300w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2022/04/Harrison-de-Nevers-200x145.png 200w" sizes="(max-width: 764px) 100vw, 764px" /></a>
+	</div>
+	<div class="featured-content">
+
+													<p class="kicker">School News</p>
+					
+
+					<h3 class="featured-title test"><a target="_self" href="https://newsroom.haas.berkeley.edu/berkeley-haas-to-host-2025-climatecap-summit/">Berkeley Haas to host 2025 ClimateCAP Summit</a></h3>
+		
+		<!--<p class="title"></p>-->
+
+		
+		
+		<!--OUTPUT FACULTY NAME-->
+				<!--END OUTPUT FACULTY NAME-->
+
+						<p class="last-line">March 6, 2024</p>
+		
+			</div>
+</div>
+																									
+<div class="featured-content-wrap ">
+	<div class="featured-image">
+			<a target="_self" href="https://newsroom.haas.berkeley.edu/economist-thomas-marschak-whose-uc-berkeley-research-and-teaching-career-spanned-60-years-dies-at-93/"><img width="764" height="554" src="https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/03/Thomas-Marschak_featured-764x554.jpg" class="attachment-rectangle-2 size-rectangle-2 wp-post-image" alt="" decoding="async" srcset="https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/03/Thomas-Marschak_featured-764x554.jpg 764w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/03/Thomas-Marschak_featured-300x217.jpg 300w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/03/Thomas-Marschak_featured-1100x797.jpg 1100w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/03/Thomas-Marschak_featured-200x145.jpg 200w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/03/Thomas-Marschak_featured-768x557.jpg 768w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/03/Thomas-Marschak_featured-1536x1113.jpg 1536w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/03/Thomas-Marschak_featured.jpg 1914w" sizes="(max-width: 764px) 100vw, 764px" /></a>
+	</div>
+	<div class="featured-content">
+
+									<p class="kicker">In Memoriam</p>
+					
+
+					<h3 class="featured-title test"><a target="_self" href="https://newsroom.haas.berkeley.edu/economist-thomas-marschak-whose-uc-berkeley-research-and-teaching-career-spanned-60-years-dies-at-93/">Economist Thomas Marschak, UC Berkeley researcher and teacher for 60 years, dies...</a></h3>
+		
+		<!--<p class="title"></p>-->
+
+		
+		
+		<!--OUTPUT FACULTY NAME-->
+				<!--END OUTPUT FACULTY NAME-->
+
+						<p class="last-line">March 5, 2024</p>
+		
+			</div>
+</div>
+																									
+<div class="featured-content-wrap ">
+	<div class="featured-image">
+			<a target="_self" href="https://newsroom.haas.berkeley.edu/financial-literacy-class-prepares-cal-athletes-for-the-big-business-of-pro-sports/"><img width="764" height="553" src="https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/02/Steve-Etter-78.jpg" class="attachment-rectangle-2 size-rectangle-2 wp-post-image" alt="professor in Blue Cal shirt teaching at whiteboard" decoding="async" srcset="https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/02/Steve-Etter-78.jpg 765w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/02/Steve-Etter-78-300x217.jpg 300w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/02/Steve-Etter-78-200x145.jpg 200w" sizes="(max-width: 764px) 100vw, 764px" /></a>
+	</div>
+	<div class="featured-content">
+
+													<p class="kicker">School News</p>
+					
+
+					<h3 class="featured-title test"><a target="_self" href="https://newsroom.haas.berkeley.edu/financial-literacy-class-prepares-cal-athletes-for-the-big-business-of-pro-sports/">Financial literacy class prepares Cal athletes for the big business of pro...</a></h3>
+		
+		<!--<p class="title"></p>-->
+
+		
+		
+		<!--OUTPUT FACULTY NAME-->
+				<!--END OUTPUT FACULTY NAME-->
+
+						<p class="last-line">February 29, 2024</p>
+		
+			</div>
+</div>
+																					</div>
+										<!--END FEATURED POST-->
+
+										<!--FEATURED POST SECONDARY-->
+										<!--<div class="featured-secondary">-->
+											
+																																<!--</div>-->
+										<!--END FEATURED SECONDARY POST-->
+
+								</div>
+
+								<a href="/browse-all" class="tag-label read-more link-to-filter" data-slug="">BROWSE ALL NEWS <i class="fas fa-chevron-right"></i></a>
+						</div>
+					</section>
+
+					<section id="widget-news-landing-research" class="widget widget-news-landing-research">
+						<div class="widget-inner">
+							<h2 class="widget-title">RESEARCH</h2>
+								<div class="widget-content">
+										<!--RESEARCH-->
+										<div class="featured-main">
+											<div class="slick-wrap">
+											
+																									
+<div class="featured-content-wrap ">
+	<div class="featured-image">
+			<a target="_self" href="https://newsroom.haas.berkeley.edu/research/research-reveals-the-key-to-an-irresistible-online-dating-profile/"><img width="764" height="554" src="https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/02/Feeling-known_Juliana-Schroeder-research.jpg" class="attachment-rectangle-1 size-rectangle-1 wp-post-image" alt="Finger of woman pushing heart icon on phone screen." decoding="async" srcset="https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/02/Feeling-known_Juliana-Schroeder-research.jpg 764w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/02/Feeling-known_Juliana-Schroeder-research-300x218.jpg 300w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/02/Feeling-known_Juliana-Schroeder-research-200x145.jpg 200w" sizes="(max-width: 764px) 100vw, 764px" /></a>
+	</div>
+	<div class="featured-content">
+
+													<p class="kicker">Research</p>
+					
+
+					<h3 class="featured-title test"><a target="_self" href="https://newsroom.haas.berkeley.edu/research/research-reveals-the-key-to-an-irresistible-online-dating-profile/">Research reveals the key to an irresistible online dating profile</a></h3>
+		
+		<!--<p class="title"></p>-->
+
+		
+		
+		<!--OUTPUT FACULTY NAME-->
+				<!--END OUTPUT FACULTY NAME-->
+
+						<p class="last-line">February 5, 2024</p>
+		
+			</div>
+</div>
+																									
+<div class="featured-content-wrap ">
+	<div class="featured-image">
+			<a target="_self" href="https://newsroom.haas.berkeley.edu/research/how-our-friends-spending-habits-can-keep-us-from-saving-for-retirement/"><img width="764" height="554" src="https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/02/Selfie-of-women-shopping_visibility-bias.jpg" class="attachment-rectangle-1 size-rectangle-1 wp-post-image" alt="Three women with shopping bags taking a selfie in city." decoding="async" srcset="https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/02/Selfie-of-women-shopping_visibility-bias.jpg 764w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/02/Selfie-of-women-shopping_visibility-bias-300x218.jpg 300w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/02/Selfie-of-women-shopping_visibility-bias-200x145.jpg 200w" sizes="(max-width: 764px) 100vw, 764px" /></a>
+	</div>
+	<div class="featured-content">
+
+													<p class="kicker">Research</p>
+					
+
+					<h3 class="featured-title test"><a target="_self" href="https://newsroom.haas.berkeley.edu/research/how-our-friends-spending-habits-can-keep-us-from-saving-for-retirement/">How our friends&#8217; spending habits mislead us to undersave for retirement</a></h3>
+		
+		<!--<p class="title"></p>-->
+
+		
+		
+		<!--OUTPUT FACULTY NAME-->
+				<!--END OUTPUT FACULTY NAME-->
+
+						<p class="last-line">February 6, 2024</p>
+		
+			</div>
+</div>
+																									
+<div class="featured-content-wrap ">
+	<div class="featured-image">
+			<a target="_self" href="https://newsroom.haas.berkeley.edu/research/study-reveals-a-hidden-channel-for-political-influence/"><img width="764" height="554" src="https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/01/Capitol-building-on-50-dollar-bill.jpg" class="attachment-rectangle-1 size-rectangle-1 wp-post-image" alt="Closeup of the United States Capitol on a 50 dollar bill" decoding="async" srcset="https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/01/Capitol-building-on-50-dollar-bill.jpg 764w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/01/Capitol-building-on-50-dollar-bill-300x218.jpg 300w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/01/Capitol-building-on-50-dollar-bill-200x145.jpg 200w" sizes="(max-width: 764px) 100vw, 764px" /></a>
+	</div>
+	<div class="featured-content">
+
+													<p class="kicker">Research</p>
+					
+
+					<h3 class="featured-title test"><a target="_self" href="https://newsroom.haas.berkeley.edu/research/study-reveals-a-hidden-channel-for-political-influence/">Study reveals a hidden channel for political influence</a></h3>
+		
+		<!--<p class="title"></p>-->
+
+		
+		
+		<!--OUTPUT FACULTY NAME-->
+				<!--END OUTPUT FACULTY NAME-->
+
+						<p class="last-line">January 12, 2024</p>
+		
+			</div>
+</div>
+																									
+<div class="featured-content-wrap ">
+	<div class="featured-image">
+			<a target="_self" href="https://newsroom.haas.berkeley.edu/research/amid-a-replication-crisis-in-social-science-research-six-year-study-validates-open-science-methods/"><img width="1200" height="700" src="https://newsroom.haas.berkeley.edu/wp-content/uploads/2023/11/Repication-study_Leif-Nelson-1200x700.jpg" class="attachment-rectangle-1 size-rectangle-1 wp-post-image" alt="Illustration showing colorful silhouettes of people" decoding="async" srcset="https://newsroom.haas.berkeley.edu/wp-content/uploads/2023/11/Repication-study_Leif-Nelson-1200x700.jpg 1200w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2023/11/Repication-study_Leif-Nelson-512x298.jpg 512w" sizes="(max-width: 1200px) 100vw, 1200px" /></a>
+	</div>
+	<div class="featured-content">
+
+													<p class="kicker">Research</p>
+					
+
+					<h3 class="featured-title test"><a target="_self" href="https://newsroom.haas.berkeley.edu/research/amid-a-replication-crisis-in-social-science-research-six-year-study-validates-open-science-methods/">Amid a replication crisis in social science research, six-year study validates open...</a></h3>
+		
+		<!--<p class="title"></p>-->
+
+		
+		
+		<!--OUTPUT FACULTY NAME-->
+				<!--END OUTPUT FACULTY NAME-->
+
+						<p class="last-line">November 13, 2023</p>
+		
+			</div>
+</div>
+																						</div>
+
+											<div class="slide-info">
+													<div class="counter"></div>
+													<button class="next" aria-label="Next" type="button"><span class="btn-name">View<br>Next<br>Story</span> <i class="fal fa-chevron-right"></i></button>
+											</div>
+										</div>
+										<!--END RESEARCH-->
+
+										<a href="#" class="tag-label read-more link-to-filter" data-slug="category-research-news">VIEW ALL RESEARCH <i class="fas fa-chevron-right"></i></a>
+								</div>
+						</div>
+					</section>
+				</div>
+
+				<div class="col-right">
+					<section id="widget-headlines" class="widget widget-headlines">
+						<div class="widget-inner">
+							<h2 class="widget-title">HAAS IN THE NEWS</h2>
+								<div class="widget-content">
+
+										<!--HEADLINES-->
+										<div class="featured-main">
+											
+																									
+<div class="featured-content-wrap ">
+	<div class="featured-image">
+			<a target="_blank" href="https://laist.com/shows/airtalk/a-deep-dive-on-hearing-aids"><img width="350" height="350" src="https://newsroom.haas.berkeley.edu/wp-content/uploads/2023/04/LAist-Airtalk-350x350.jpg" class="attachment-thumb-square-medium size-thumb-square-medium wp-post-image" alt="" decoding="async" srcset="https://newsroom.haas.berkeley.edu/wp-content/uploads/2023/04/LAist-Airtalk-350x350.jpg 350w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2023/04/LAist-Airtalk-e1701313987852-150x150.jpg 150w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2023/04/LAist-Airtalk-e1701313987852-85x85.jpg 85w" sizes="(max-width: 350px) 100vw, 350px" /></a>
+	</div>
+	<div class="featured-content">
+
+									<p class="kicker">AirTalk</p>
+					
+
+					<h3 class="featured-title"><a target="_blank" href="https://laist.com/shows/airtalk/a-deep-dive-on-hearing-aids">Apple lets go of EV manufacturing dreams— What’s the next innovation the...</a></h3>
+		
+		<!--<p class="title"></p>-->
+
+		
+		
+		<!--OUTPUT FACULTY NAME-->
+		<p class='faculty'>RE: <a href='https://haas.berkeley.edu/faculty/saikat-chaudhuri/'>Saikat  Chaudhuri </a></p>		<!--END OUTPUT FACULTY NAME-->
+
+						<p class="last-line">March 1, 2024</p>
+		
+			</div>
+</div>
+																									
+<div class="featured-content-wrap ">
+	<div class="featured-image">
+			<a target="_blank" href="https://www.cbsnews.com/sanfrancisco/video/elon-musk-sues-openai/"><img width="350" height="350" src="https://newsroom.haas.berkeley.edu/wp-content/uploads/2022/10/logo-cbsn-bayarea-1920x1080-Cropped-2-350x350.jpg" class="attachment-thumb-square-medium size-thumb-square-medium wp-post-image" alt="CBS News Bay Area" decoding="async" srcset="https://newsroom.haas.berkeley.edu/wp-content/uploads/2022/10/logo-cbsn-bayarea-1920x1080-Cropped-2-350x350.jpg 350w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2022/10/logo-cbsn-bayarea-1920x1080-Cropped-2-e1667946787410-150x150.jpg 150w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2022/10/logo-cbsn-bayarea-1920x1080-Cropped-2-e1667946787410-85x85.jpg 85w" sizes="(max-width: 350px) 100vw, 350px" /></a>
+	</div>
+	<div class="featured-content">
+
+									<p class="kicker">CBS Bay Area</p>
+					
+
+					<h3 class="featured-title"><a target="_blank" href="https://www.cbsnews.com/sanfrancisco/video/elon-musk-sues-openai/">Elon Musk sues Open AI</a></h3>
+		
+		<!--<p class="title"></p>-->
+
+		
+		
+		<!--OUTPUT FACULTY NAME-->
+		<p class='faculty'>RE: <a href='https://haas.berkeley.edu/faculty/olaf-j-groth/'>Olaf J. Groth</a></p>		<!--END OUTPUT FACULTY NAME-->
+
+						<p class="last-line">March 1, 2024</p>
+		
+			</div>
+</div>
+																									
+<div class="featured-content-wrap ">
+	<div class="featured-image">
+			<a target="_blank" href="https://www.clearadmit.com/2024/02/annual-climatecap-mba-summit-convenes-at-michigan-ross/"><img width="225" height="150" src="https://newsroom.haas.berkeley.edu/wp-content/uploads/2023/09/clearadmit-e1695255614599.png" class="attachment-thumb-square-medium size-thumb-square-medium wp-post-image" alt="" decoding="async" srcset="https://newsroom.haas.berkeley.edu/wp-content/uploads/2023/09/clearadmit-e1695255614599.png 225w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2023/09/clearadmit-e1695255614599-200x133.png 200w" sizes="(max-width: 225px) 100vw, 225px" /></a>
+	</div>
+	<div class="featured-content">
+
+									<p class="kicker">Clear Admit</p>
+					
+
+					<h3 class="featured-title"><a target="_blank" href="https://www.clearadmit.com/2024/02/annual-climatecap-mba-summit-convenes-at-michigan-ross/"> Annual ClimateCAP MBA summit convenes at Michigan Ross </a></h3>
+		
+		<!--<p class="title"></p>-->
+
+		
+		
+		<!--OUTPUT FACULTY NAME-->
+		<p class='faculty'>RE: <a href='https://haas.berkeley.edu/faculty/ann-harrison/'>Ann E.  Harrison</a></p>		<!--END OUTPUT FACULTY NAME-->
+
+						<p class="last-line">February 29, 2024</p>
+		
+			</div>
+</div>
+																									
+<div class="featured-content-wrap ">
+	<div class="featured-image">
+			<a target="_blank" href="https://www.forbes.com/sites/danirvine/2024/02/28/the-perils-of-instinct-driven-investing/?sh=121bc1dd4c18"><img width="225" height="150" src="https://newsroom.haas.berkeley.edu/wp-content/uploads/2022/11/Forbes-e1669872008486.png" class="attachment-thumb-square-medium size-thumb-square-medium wp-post-image" alt="" decoding="async" srcset="https://newsroom.haas.berkeley.edu/wp-content/uploads/2022/11/Forbes-e1669872008486.png 225w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2022/11/Forbes-e1669872008486-200x133.png 200w" sizes="(max-width: 225px) 100vw, 225px" /></a>
+	</div>
+	<div class="featured-content">
+
+									<p class="kicker">Forbes</p>
+					
+
+					<h3 class="featured-title"><a target="_blank" href="https://www.forbes.com/sites/danirvine/2024/02/28/the-perils-of-instinct-driven-investing/?sh=121bc1dd4c18">The perils of instinct-driven investing</a></h3>
+		
+		<!--<p class="title"></p>-->
+
+		
+		
+		<!--OUTPUT FACULTY NAME-->
+		<p class='faculty'>RE: <a href='https://haas.berkeley.edu/faculty/odean-terrance/'>Terrance Odean</a></p>		<!--END OUTPUT FACULTY NAME-->
+
+						<p class="last-line">February 28, 2024</p>
+		
+			</div>
+</div>
+																									
+<div class="featured-content-wrap ">
+	<div class="featured-image">
+			<a target="_blank" href="https://poetsandquants.com/2024/02/27/how-executives-rank-the-worlds-best-business-schools-in-2024/2/"><img width="300" height="200" src="https://newsroom.haas.berkeley.edu/wp-content/uploads/2020/05/PoetsQuants_rectlogo.png" class="attachment-thumb-square-medium size-thumb-square-medium wp-post-image" alt="Poets&amp;Quants_rectlogo" decoding="async" srcset="https://newsroom.haas.berkeley.edu/wp-content/uploads/2020/05/PoetsQuants_rectlogo.png 300w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2020/05/PoetsQuants_rectlogo-200x133.png 200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+	</div>
+	<div class="featured-content">
+
+									<p class="kicker">Poets & Quants</p>
+					
+
+					<h3 class="featured-title"><a target="_blank" href="https://poetsandquants.com/2024/02/27/how-executives-rank-the-worlds-best-business-schools-in-2024/2/">How executives rank the world’s best business schools in 2024</a></h3>
+		
+		<!--<p class="title"></p>-->
+
+		
+		
+		<!--OUTPUT FACULTY NAME-->
+				<!--END OUTPUT FACULTY NAME-->
+
+						<p class="last-line">February 27, 2024</p>
+		
+			</div>
+</div>
+																									
+<div class="featured-content-wrap ">
+	<div class="featured-image">
+			<a target="_blank" href="https://www.sfgate.com/politics/article/pelosi-bet-on-tech-company-could-net-huge-profit-18689244.php"><img width="300" height="200" src="https://newsroom.haas.berkeley.edu/wp-content/uploads/2020/11/SFGate_rectlogo.png" class="attachment-thumb-square-medium size-thumb-square-medium wp-post-image" alt="" decoding="async" srcset="https://newsroom.haas.berkeley.edu/wp-content/uploads/2020/11/SFGate_rectlogo.png 300w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2020/11/SFGate_rectlogo-200x133.png 200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+	</div>
+	<div class="featured-content">
+
+									<p class="kicker">SFGate</p>
+					
+
+					<h3 class="featured-title"><a target="_blank" href="https://www.sfgate.com/politics/article/pelosi-bet-on-tech-company-could-net-huge-profit-18689244.php">The Pelosis' bet on a Bay Area tech company could turn a...</a></h3>
+		
+		<!--<p class="title"></p>-->
+
+		
+		
+		<!--OUTPUT FACULTY NAME-->
+		<p class='faculty'>RE: <a href='https://haas.berkeley.edu/faculty/coldiron-kevin/'>Kevin Coldiron</a></p>		<!--END OUTPUT FACULTY NAME-->
+
+						<p class="last-line">February 26, 2024</p>
+		
+			</div>
+</div>
+																					</div>
+										<!--END HEADLINES-->
+
+										<a href="https://newsroom.haas.berkeley.edu/haas-in-the-news/" class="tag-label read-more">VIEW ALL HEADLINES <i class="fas fa-chevron-right"></i></a>
+								</div>
+						</div>
+					</section>
+
+					<section id="widget-mba-blog" class="widget widget-mba-blog">
+						<div class="widget-inner">
+							<h2 class="widget-title">HAAS MBA BLOG</h2>
+								<div class="widget-content">
+
+										<!--HEADLINES-->
+										<div class="featured-main">
+											
+																									
+<div class="featured-content-wrap ">
+	<div class="featured-image">
+			<a target="_blank" href="https://blogs.haas.berkeley.edu/the-berkeley-mba/flex-mba-offers-a-virtually-seamless-classroom-experience"><img width="350" height="350" src="https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/03/Flex-Classroom-350x350.webp" class="attachment-thumb-square-medium size-thumb-square-medium wp-post-image" alt="Photo showing Professor Guajardo in Flex Classroom, that consists of several large screen with students tuning in virtually." decoding="async" srcset="https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/03/Flex-Classroom-350x350.webp 350w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/03/Flex-Classroom-150x150.webp 150w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/03/Flex-Classroom-85x85.webp 85w" sizes="(max-width: 350px) 100vw, 350px" /></a>
+	</div>
+	<div class="featured-content">
+
+									<p class="kicker">SCHOOL NEWS</p>
+					
+
+					<h3 class="featured-title test"><a target="_blank" href="https://blogs.haas.berkeley.edu/the-berkeley-mba/flex-mba-offers-a-virtually-seamless-classroom-experience">Flex MBA offers a virtually seamless classroom experience</a></h3>
+		
+		<!--<p class="title"></p>-->
+
+		
+		
+		<!--OUTPUT FACULTY NAME-->
+				<!--END OUTPUT FACULTY NAME-->
+
+						<p class="last-line">February 29, 2024</p>
+		
+			</div>
+</div>
+																									
+<div class="featured-content-wrap ">
+	<div class="featured-image">
+			<a target="_blank" href="https://blogs.haas.berkeley.edu/the-berkeley-mba/making-space-and-making-a-difference-as-an-entrepreneur-through-acquisition"><img width="350" height="350" src="https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/02/Adilene-Dominguez-1-350x350.jpg" class="attachment-thumb-square-medium size-thumb-square-medium wp-post-image" alt="Photo of Latina EWMBA student, Adilene Dominguez, smiling in light blue shirt with collar." decoding="async" srcset="https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/02/Adilene-Dominguez-1-350x350.jpg 350w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/02/Adilene-Dominguez-1-150x150.jpg 150w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/02/Adilene-Dominguez-1-85x85.jpg 85w" sizes="(max-width: 350px) 100vw, 350px" /></a>
+	</div>
+	<div class="featured-content">
+
+									<p class="kicker">STUDENT NEWS</p>
+					
+
+					<h3 class="featured-title test"><a target="_blank" href="https://blogs.haas.berkeley.edu/the-berkeley-mba/making-space-and-making-a-difference-as-an-entrepreneur-through-acquisition">Making space and making a difference as an entrepreneur through acquisition</a></h3>
+		
+		<!--<p class="title"></p>-->
+
+		
+		
+		<!--OUTPUT FACULTY NAME-->
+				<!--END OUTPUT FACULTY NAME-->
+
+						<p class="last-line">January 19, 2024</p>
+		
+			</div>
+</div>
+																									
+<div class="featured-content-wrap ">
+	<div class="featured-image">
+			<a target="_blank" href="https://blogs.haas.berkeley.edu/the-berkeley-mba/side-stepping-from-big-tech-to-direct-impact"><img width="350" height="350" src="https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/01/Alex-Berry-350x350.jpg" class="attachment-thumb-square-medium size-thumb-square-medium wp-post-image" alt="African American male smiling, wearing dark blue blazer, light blue button-up shirt with red tee shirt underneath." decoding="async" srcset="https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/01/Alex-Berry-350x350.jpg 350w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/01/Alex-Berry-150x150.jpg 150w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/01/Alex-Berry-85x85.jpg 85w" sizes="(max-width: 350px) 100vw, 350px" /></a>
+	</div>
+	<div class="featured-content">
+
+									<p class="kicker">STUDENT NEWS</p>
+					
+
+					<h3 class="featured-title test"><a target="_blank" href="https://blogs.haas.berkeley.edu/the-berkeley-mba/side-stepping-from-big-tech-to-direct-impact">Side-stepping from Big Tech to direct impact</a></h3>
+		
+		<!--<p class="title"></p>-->
+
+		
+		
+		<!--OUTPUT FACULTY NAME-->
+				<!--END OUTPUT FACULTY NAME-->
+
+						<p class="last-line">January 16, 2024</p>
+		
+			</div>
+</div>
+																					</div>
+										<!--END MBA BLOG-->
+
+										<a href="https://blogs.haas.berkeley.edu/the-berkeley-mba" class="tag-label read-more">Browse MBA Blog <i class="fas fa-chevron-right"></i></a>
+								</div>
+						</div>
+					</section>
+				</div>
+			</div>
+			<!--END PAGE SECTION 1-->
+
+			<div id="content-block-2">
+				<section id="widget-perspectives" class="widget widget-perspectives">
+					<div class="widget-inner">
+						<h2 class="widget-title">PERSPECTIVES</h2>
+							<div class="widget-content">
+
+									<!--PERSPECTIVES-->
+									<div class="featured-main">
+										
+																							
+<div class="featured-content-wrap ">
+	<div class="featured-image">
+			<a target="_blank" href="https://energyathaas.wordpress.com/2024/03/04/offset-me-not/"><img width="350" height="350" src="https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/03/screenshot-2024-03-04-at-4.01.00-am-350x350.webp" class="attachment-thumb-square-medium size-thumb-square-medium wp-post-image" alt="Photo of a forest. Tall trees, clouds in the sky, and mist below within the trees." decoding="async" srcset="https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/03/screenshot-2024-03-04-at-4.01.00-am-350x350.webp 350w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/03/screenshot-2024-03-04-at-4.01.00-am-150x150.webp 150w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/03/screenshot-2024-03-04-at-4.01.00-am-85x85.webp 85w" sizes="(max-width: 350px) 100vw, 350px" /></a>
+	</div>
+	<div class="featured-content">
+
+									<p class="kicker">ENERGY INSTITUTE BLOG</p>
+					
+
+					<h3 class="featured-title test"><a target="_blank" href="https://energyathaas.wordpress.com/2024/03/04/offset-me-not/">Offset Me Not</a></h3>
+		
+		<!--<p class="title"></p>-->
+
+		
+		
+		<!--OUTPUT FACULTY NAME-->
+				<!--END OUTPUT FACULTY NAME-->
+
+						<p class="last-line">March 4, 2024</p>
+		
+			</div>
+</div>
+																							
+<div class="featured-content-wrap ">
+	<div class="featured-image">
+			<a target="_blank" href="https://cmr.berkeley.edu/2024/02/the-new-space-race-is-not-what-you-think/"><img width="350" height="350" src="https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/03/Screen-Shot-2024-03-04-at-8.42.28-AM-350x350.png" class="attachment-thumb-square-medium size-thumb-square-medium wp-post-image" alt="A photo of an Astronaut on the moon standing to the right of a USA flag." decoding="async" srcset="https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/03/Screen-Shot-2024-03-04-at-8.42.28-AM-350x350.png 350w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/03/Screen-Shot-2024-03-04-at-8.42.28-AM-150x150.png 150w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/03/Screen-Shot-2024-03-04-at-8.42.28-AM-85x85.png 85w" sizes="(max-width: 350px) 100vw, 350px" /></a>
+	</div>
+	<div class="featured-content">
+
+									<p class="kicker">CALIFORNIA MANAGEMENT REVIEW BLOG</p>
+					
+
+					<h3 class="featured-title test"><a target="_blank" href="https://cmr.berkeley.edu/2024/02/the-new-space-race-is-not-what-you-think/">The New Space Race is Not What You Think</a></h3>
+		
+		<!--<p class="title"></p>-->
+
+		
+		
+		<!--OUTPUT FACULTY NAME-->
+				<!--END OUTPUT FACULTY NAME-->
+
+						<p class="last-line">February 27, 2024</p>
+		
+			</div>
+</div>
+																							
+<div class="featured-content-wrap ">
+	<div class="featured-image">
+			<a target="_blank" href="https://energyathaas.wordpress.com/2024/02/26/the-death-of-a-power-plant/"><img width="350" height="350" src="https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/02/campus-350x350.jpg" class="attachment-thumb-square-medium size-thumb-square-medium wp-post-image" alt="photo of a older building, possibly a building on campus." decoding="async" srcset="https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/02/campus-350x350.jpg 350w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/02/campus-150x150.jpg 150w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/02/campus-85x85.jpg 85w" sizes="(max-width: 350px) 100vw, 350px" /></a>
+	</div>
+	<div class="featured-content">
+
+									<p class="kicker">ENERGY INSTITUTE BLOG</p>
+					
+
+					<h3 class="featured-title test"><a target="_blank" href="https://energyathaas.wordpress.com/2024/02/26/the-death-of-a-power-plant/">The Death of a Power Plant</a></h3>
+		
+		<!--<p class="title"></p>-->
+
+		
+		
+		<!--OUTPUT FACULTY NAME-->
+				<!--END OUTPUT FACULTY NAME-->
+
+						<p class="last-line">February 26, 2024</p>
+		
+			</div>
+</div>
+																							
+<div class="featured-content-wrap ">
+	<div class="featured-image">
+			<a target="_blank" href="https://haaspodcasts.org/podcast/laura-clayton-mcdonnell-jd-mba-85-the-importance-of-having-a-personal-philosophy/"><img width="350" height="350" src="https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/02/Laura-Clayton-McDonnell-Episode-Artwork-350x350.png" class="attachment-thumb-square-medium size-thumb-square-medium wp-post-image" alt="Photo of Panamanian- American Alumna. Brown Skin, Dark hair, smiling, wearing glasses and a blue and white top against Berkeley Blue background." decoding="async" srcset="https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/02/Laura-Clayton-McDonnell-Episode-Artwork-350x350.png 350w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/02/Laura-Clayton-McDonnell-Episode-Artwork-300x300.png 300w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/02/Laura-Clayton-McDonnell-Episode-Artwork-1100x1100.png 1100w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/02/Laura-Clayton-McDonnell-Episode-Artwork-200x200.png 200w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/02/Laura-Clayton-McDonnell-Episode-Artwork-768x768.png 768w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/02/Laura-Clayton-McDonnell-Episode-Artwork-150x150.png 150w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/02/Laura-Clayton-McDonnell-Episode-Artwork-85x85.png 85w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2024/02/Laura-Clayton-McDonnell-Episode-Artwork.png 1400w" sizes="(max-width: 350px) 100vw, 350px" /></a>
+	</div>
+	<div class="featured-content">
+
+									<p class="kicker">HaasPodcasts</p>
+					
+
+					<h3 class="featured-title test"><a target="_blank" href="https://haaspodcasts.org/podcast/laura-clayton-mcdonnell-jd-mba-85-the-importance-of-having-a-personal-philosophy/">Laura Clayton McDonnell, JD MBA 85 – The Importance of Having a...</a></h3>
+		
+		<!--<p class="title"></p>-->
+
+		
+		
+		<!--OUTPUT FACULTY NAME-->
+				<!--END OUTPUT FACULTY NAME-->
+
+						<p class="last-line">February 15, 2024</p>
+		
+			</div>
+</div>
+																			</div>
+									<!--END PERSPECTIVES-->
+
+									<a href="#" class="tag-label read-more link-to-filter" data-slug="category-opinion">VIEW ALL PERSPECTIVES <i class="fas fa-chevron-right"></i></a>
+							</div>
+					</div>
+				</section>
+			</div>
+			<!--END PAGE SECTION 2-->
+
+			<div id="content-block-3">
+				<section id="widget-news-landing-magazine" class="widget widget-news-landing-magazine">
+					<div class="widget-inner">
+						<h2 class="widget-title">FROM THE MAGAZINE</h2>
+							<div class="widget-content">
+
+									<!--FEATURED POST-->
+									<div class="featured-main">
+										
+																							
+<div class="featured-content-wrap ">
+	<div class="featured-image">
+			<a target="_self" href="https://newsroom.haas.berkeley.edu/magazine/fall-2023/theres-no-place-like-work/"><img width="1078" height="874" src="https://newsroom.haas.berkeley.edu/wp-content/uploads/2023/11/no-place-like-work-1078x874.jpg" class="attachment-magazine-cover size-magazine-cover wp-post-image" alt="Illustration of man sitting at work desk with sunlight being painted upon him." decoding="async" /></a>
+	</div>
+	<div class="featured-content">
+
+									<p class="kicker">Office Design</p>
+					
+
+					<h3 class="featured-title test"><a target="_self" href="https://newsroom.haas.berkeley.edu/magazine/fall-2023/theres-no-place-like-work/">There’s No Place Like Work</a></h3>
+		
+		<!--<p class="title"></p>-->
+
+						<p class="excerpt">How place identity enhances engagement Post-pandemic workspaces have become increasingly fluid, and companies are trying out hot...</p>
+		
+		
+		<!--OUTPUT FACULTY NAME-->
+				<!--END OUTPUT FACULTY NAME-->
+
+						<p class="last-line">November 29, 2023</p>
+		
+						<a href="https://newsroom.haas.berkeley.edu/magazine/fall-2023/theres-no-place-like-work/" class="common-btn">Read More <i class="fas fa-chevron-right"></i></a>
+			</div>
+</div>
+																				<a href="/issue/current/" class="tag-label read-more">BROWSE THE MAGAZINE <i class="fas fa-chevron-right"></i></a>
+									</div>
+									<!--END FEATURED POST-->
+
+									<!--FEATURED POST SECONDARY-->
+									<div class="featured-secondary">
+										
+																							
+<div class="featured-content-wrap ">
+	<div class="featured-image">
+			<a target="_self" href="https://newsroom.haas.berkeley.edu/magazine/fall-2023/priya-saiprasad/"><img width="350" height="350" src="https://newsroom.haas.berkeley.edu/wp-content/uploads/2023/11/priya-350x350.jpg" class="attachment-thumb-square-medium size-thumb-square-medium wp-post-image" alt="Priya Saiprasad, BS 10." decoding="async" srcset="https://newsroom.haas.berkeley.edu/wp-content/uploads/2023/11/priya-350x350.jpg 350w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2023/11/priya-150x150.jpg 150w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2023/11/priya-85x85.jpg 85w" sizes="(max-width: 350px) 100vw, 350px" /></a>
+	</div>
+	<div class="featured-content">
+
+									<p class="kicker">Confidence Without Attitude</p>
+					
+
+					<h3 class="featured-title test"><a target="_self" href="https://newsroom.haas.berkeley.edu/magazine/fall-2023/priya-saiprasad/">Priya Saiprasad, BS 10<br>Co-Founder and General Partner, Touring Capital</a></h3>
+		
+		<!--<p class="title"></p>-->
+
+						<p class="excerpt">Priya Saiprasad often doesn’t look like other venture capitalists in Silicon Valley boardrooms. But she does look...</p>
+		
+		
+		<!--OUTPUT FACULTY NAME-->
+				<!--END OUTPUT FACULTY NAME-->
+
+						<p class="last-line">November 30, 2023</p>
+		
+			</div>
+</div>
+																							
+<div class="featured-content-wrap ">
+	<div class="featured-image">
+			<a target="_self" href="https://newsroom.haas.berkeley.edu/magazine/fall-2023/jackson-block/"><img width="350" height="350" src="https://newsroom.haas.berkeley.edu/wp-content/uploads/2023/11/jackson-block-350x350.jpg" class="attachment-thumb-square-medium size-thumb-square-medium wp-post-image" alt="Jackson Block, BS 17." decoding="async" srcset="https://newsroom.haas.berkeley.edu/wp-content/uploads/2023/11/jackson-block-350x350.jpg 350w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2023/11/jackson-block-150x150.jpg 150w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2023/11/jackson-block-85x85.jpg 85w" sizes="(max-width: 350px) 100vw, 350px" /></a>
+	</div>
+	<div class="featured-content">
+
+									<p class="kicker">Question the Status Quo</p>
+					
+
+					<h3 class="featured-title test"><a target="_self" href="https://newsroom.haas.berkeley.edu/magazine/fall-2023/jackson-block/">Jackson Block, BS 17<br>CEO and Co-founder, LGBT+ VC</a></h3>
+		
+		<!--<p class="title"></p>-->
+
+						<p class="excerpt">Soon after the 2022 Club Q massacre in Colorado Springs, Colorado, Jackson Block took action to advance...</p>
+		
+		
+		<!--OUTPUT FACULTY NAME-->
+				<!--END OUTPUT FACULTY NAME-->
+
+						<p class="last-line">November 30, 2023</p>
+		
+			</div>
+</div>
+																							
+<div class="featured-content-wrap ">
+	<div class="featured-image">
+			<a target="_self" href="https://newsroom.haas.berkeley.edu/magazine/fall-2023/nick-sonnenberg/"><img width="350" height="350" src="https://newsroom.haas.berkeley.edu/wp-content/uploads/2023/11/Nick-Sonnenberg-MFE-07-350x350.jpg" class="attachment-thumb-square-medium size-thumb-square-medium wp-post-image" alt="Nick Sonnenberg, MFE 07." decoding="async" srcset="https://newsroom.haas.berkeley.edu/wp-content/uploads/2023/11/Nick-Sonnenberg-MFE-07-350x350.jpg 350w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2023/11/Nick-Sonnenberg-MFE-07-150x150.jpg 150w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2023/11/Nick-Sonnenberg-MFE-07-85x85.jpg 85w" sizes="(max-width: 350px) 100vw, 350px" /></a>
+	</div>
+	<div class="featured-content">
+
+									<p class="kicker">Students Always</p>
+					
+
+					<h3 class="featured-title test"><a target="_self" href="https://newsroom.haas.berkeley.edu/magazine/fall-2023/nick-sonnenberg/">Nick Sonnenberg, MFE 07<br>CEO and Founder, Leverage</a></h3>
+		
+		<!--<p class="title"></p>-->
+
+						<p class="excerpt">If you’ve ever felt overwhelmed with work, you’re not alone. Nick Sonnenberg heard the complaint so often...</p>
+		
+		
+		<!--OUTPUT FACULTY NAME-->
+				<!--END OUTPUT FACULTY NAME-->
+
+						<p class="last-line">November 30, 2023</p>
+		
+			</div>
+</div>
+																							
+<div class="featured-content-wrap ">
+	<div class="featured-image">
+			<a target="_self" href="https://newsroom.haas.berkeley.edu/magazine/fall-2023/olaseni-bello/"><img width="350" height="350" src="https://newsroom.haas.berkeley.edu/wp-content/uploads/2023/11/Olaseni-Bello-MBA-21-350x350.jpg" class="attachment-thumb-square-medium size-thumb-square-medium wp-post-image" alt="Olaseni Bello, MBA 21." decoding="async" srcset="https://newsroom.haas.berkeley.edu/wp-content/uploads/2023/11/Olaseni-Bello-MBA-21-350x350.jpg 350w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2023/11/Olaseni-Bello-MBA-21-150x150.jpg 150w, https://newsroom.haas.berkeley.edu/wp-content/uploads/2023/11/Olaseni-Bello-MBA-21-85x85.jpg 85w" sizes="(max-width: 350px) 100vw, 350px" /></a>
+	</div>
+	<div class="featured-content">
+
+									<p class="kicker">Beyond Yourself</p>
+					
+
+					<h3 class="featured-title test"><a target="_self" href="https://newsroom.haas.berkeley.edu/magazine/fall-2023/olaseni-bello/">Olaseni Bello, MBA 21<br>Associate General Counsel, Product, Intuit</a></h3>
+		
+		<!--<p class="title"></p>-->
+
+						<p class="excerpt">Anchored by his North Stars—impact and access—Olaseni Bello has always sought to serve a larger purpose through...</p>
+		
+		
+		<!--OUTPUT FACULTY NAME-->
+				<!--END OUTPUT FACULTY NAME-->
+
+						<p class="last-line">November 30, 2023</p>
+		
+			</div>
+</div>
+																			</div>
+									<!--END FEATURED SECONDARY POST-->
+
+							</div>
+					</div>
+				</section>
+			</div>
+			<!--END PAGE SECTION 3-->
+
+
+	</main><!-- #main -->
+</div><!-- #primary -->
+
+
+	</div><!-- #content -->
+</div><!--#content-wrapper-->
+
+		<div id="footer-fixed">
+		<div id="category-navigation">
+		<div id="category-navigation-inner" class="global-container">
+			<section class="category-navigation-terms">
+					<header>
+						<h2 class="category-navigation-header">
+							Topics						</h2>
+					</header>
+
+												<div class="footer-cats-list-wrap">
+								<ul class="footer-cats-list">
+																																<li>
+													<a href="#" class="link-to-filter" data-slug="topic-operations">Operations</a>
+												</li>
+																																										<li>
+													<a href="#" class="link-to-filter" data-slug="topic-sustainability">Sustainability</a>
+												</li>
+																																										<li>
+													<a href="#" class="link-to-filter" data-slug="topic-economic-analysis-policy">Economic Analysis &amp; Policy</a>
+												</li>
+																																										<li>
+													<a href="#" class="link-to-filter" data-slug="topic-business-public-policy">Business &amp; Public Policy</a>
+												</li>
+																																										<li>
+													<a href="#" class="link-to-filter" data-slug="topic-social-impact">Social Impact</a>
+												</li>
+																																										<li>
+													<a href="#" class="link-to-filter" data-slug="topic-diversity-equity-inclusion">Diversity, Equity, and Inclusion</a>
+												</li>
+																																										<li>
+													<a href="#" class="link-to-filter" data-slug="topic-curriculum">Curriculum</a>
+												</li>
+																																										<li>
+													<a href="#" class="link-to-filter" data-slug="topic-innovation-technology">Innovation &amp; Technology</a>
+												</li>
+																																										<li>
+													<a href="#" class="link-to-filter" data-slug="topic-real-estate">Real Estate</a>
+												</li>
+																																										<li>
+													<a href="#" class="link-to-filter" data-slug="topic-accounting">Accounting</a>
+												</li>
+																																										<li>
+													<a href="#" class="link-to-filter" data-slug="topic-management">Management</a>
+												</li>
+																																										<li>
+													<a href="#" class="link-to-filter" data-slug="topic-marketing">Marketing</a>
+												</li>
+																																										<li>
+													<a href="#" class="link-to-filter" data-slug="topic-healthcare">Healthcare</a>
+												</li>
+																																										<li>
+													<a href="#" class="link-to-filter" data-slug="topic-finance">Finance</a>
+												</li>
+																																										<li>
+													<a href="#" class="link-to-filter" data-slug="topic-entrepreneurship">Entrepreneurship</a>
+												</li>
+																																										<li>
+													<a href="#" class="link-to-filter" data-slug="topic-energy-environment">Energy &amp; Environment</a>
+												</li>
+																																										<li>
+													<a href="#" class="link-to-filter" data-slug="topic-economics">Economics</a>
+												</li>
+																												</ul>
+							</div>
+								</section>
+
+			<section class="category-navigation-terms">
+					<header>
+						<h2 class="category-navigation-header">
+							Categories						</h2>
+					</header>
+
+												<div class="footer-cats-list-wrap">
+								<ul class="footer-cats-list">
+																																<li>
+													<a href="#" class="link-to-filter" data-slug="category-faculty-news">Faculty News</a>
+												</li>
+																																										<li>
+													<a href="#" class="link-to-filter" data-slug="category-student-news">Student News</a>
+												</li>
+																																										<li>
+													<a href="#" class="link-to-filter" data-slug="category-research-news">Research</a>
+												</li>
+																																										<li>
+													<a href="#" class="link-to-filter" data-slug="category-rankings">Rankings</a>
+												</li>
+																																										<li>
+													<a href="#" class="link-to-filter" data-slug="category-school-news">School News</a>
+												</li>
+																																										<li>
+													<a href="#" class="link-to-filter" data-slug="category-opinion">Perspectives</a>
+												</li>
+																																										<li>
+													<a href="#" class="link-to-filter" data-slug="category-news-releases">News Releases</a>
+												</li>
+																																										<li>
+													<a href="#" class="link-to-filter" data-slug="category-videos">Videos</a>
+												</li>
+																																										<li>
+													<a href="#" class="link-to-filter" data-slug="category-alumni-news">Alumni News</a>
+												</li>
+																																																</ul>
+							</div>
+								</section>
+		</div>
+</div>
+					<footer id="footer" class="site-footer" role="contentinfo">
+				<div class="container">
+					<div class="footer-wrap">
+						<div class="column main-column">
+							<div class="site-logo">
+								<a href="https://haas.berkeley.edu">
+									<span class="screen-reader-text">Berkeley Haas</span>
+								</a>
+							</div>
+
+															<p>Haas School of Business<br />
+University of California, Berkeley</p>
+							
+															<ul id="menu-social-media" class="social-menu"><li id="menu-item-211" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-211"><a target="_blank" rel="noopener" href="http://www.facebook.com/BerkeleyHaas"><span class="icon fab fa-facebook-f"></span> <span class="screen-reader-text">Facebook</span></a></li>
+<li id="menu-item-212" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-212"><a target="_blank" rel="noopener" href="http://twitter.com/BerkeleyHaas"><span class="icon fab fa-twitter"></span> <span class="screen-reader-text">Twitter</span></a></li>
+<li id="menu-item-213" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-213"><a target="_blank" rel="noopener" href="https://www.linkedin.com/company/2519"><span class="icon fab fa-linkedin-in"></span> <span class="screen-reader-text">LinkedIn</span></a></li>
+<li id="menu-item-214" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-214"><a target="_blank" rel="noopener" href="https://www.youtube.com/BerkeleyHaas"><span class="icon fab fa-youtube"></span> <span class="screen-reader-text">Youtube</span></a></li>
+<li id="menu-item-215" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-215"><a target="_blank" rel="noopener" href="https://www.instagram.com/BerkeleyHaas/"><span class="icon fab fa-instagram"></span> <span class="screen-reader-text">Instagram</span></a></li>
+</ul>													</div>
+
+														<div class="column footer-menus">
+																		<div class="column">
+																							<h4 class="footer-menu-title">Resources</h4>
+																																		<ul id="menu-resources-menu" class="footer-menu"><li id="menu-item-218" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-218"><a href="https://haas.berkeley.edu/corporate-partners/">For Companies</a></li>
+<li id="menu-item-219" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-219"><a href="https://haas.berkeley.edu/recruiters/">For Recruiters</a></li>
+<li id="menu-item-220" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-220"><a href="https://haas.berkeley.edu/for-visitors/">For Visitors</a></li>
+<li id="menu-item-221" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-221"><a target="_blank" rel="noopener" href="http://www.lib.berkeley.edu/libraries/business-library">Business Library</a></li>
+<li id="menu-item-222" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-222"><a target="_blank" rel="noopener" href="http://www.berkeley.edu/directory">UC Berkeley Directory</a></li>
+<li id="menu-item-223" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-223"><a href="https://haas.berkeley.edu/about/contact/">Contact Haas</a></li>
+</ul>																					</div>
+																			<div class="column">
+																							<h4 class="footer-menu-title">Internal Sites</h4>
+																																		<ul id="menu-internal-sites-menu" class="footer-menu"><li id="menu-item-217954" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-217954"><a href="http://bmail.berkeley.edu/">bMail (Berkeley Mail)</a></li>
+<li id="menu-item-217955" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-217955"><a href="https://haas.berkeley.edu/for-current-students/">For Current Students</a></li>
+<li id="menu-item-217956" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-217956"><a href="https://haas.berkeley.edu/for-faculty/">For Faculty</a></li>
+<li id="menu-item-217957" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-217957"><a href="https://haas.berkeley.edu/staff-now">For Staff</a></li>
+<li id="menu-item-217958" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-217958"><a href="https://haas.berkeley.edu/alumni/">For Alumni</a></li>
+<li id="menu-item-217959" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-217959"><a href="https://haas.berkeley.edu/facilities/emergency/">Emergency Information</a></li>
+</ul>																					</div>
+																	</div>
+							
+													<div class="column">
+								<ul class="buttons">
+																			<li>
+											<a href="https://haas.berkeley.edu/giving/" class="button hover-white-button">
+												Give to Haas											</a>
+										</li>
+																	</ul>
+							</div>
+											</div>
+
+					<div id="site-credit">
+						Copyright &copy; 2021 UC Regents													<ul id="menu-credit-menu" class="credit-menu"><li id="menu-item-230" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-230"><a target="_blank" rel="noopener" href="http://www.berkeley.edu/">UC Berkeley</a></li>
+<li id="menu-item-231" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-231"><a target="_blank" rel="noopener" href="https://haas.berkeley.edu/technology-solutions/about/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-559214" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-559214"><a target="_blank" rel="noopener" href="https://dac.berkeley.edu/web-accessibility">Accessibility</a></li>
+<li id="menu-item-559215" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-559215"><a target="_blank" rel="noopener" href="https://ophd.berkeley.edu/policies-and-procedures/nondiscrimination-policy-statement">Nondiscrimination</a></li>
+</ul>						
+						<a class="back-to-top" href="#page">Back to Top <span class="icon fal fa-arrow-up"></span></a>
+					</div>
+				</div><!-- .container -->
+			</footer>
+	</div>
+	<style>
+	.single-magazine .widget a {
+		text-decoration: underline;
+	}
+</style>
+</div><!-- #page -->
+
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+    var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+    sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+    </script>
+    <script data-cfasync="false" type="text/javascript">if (window.addthis_product === undefined) { window.addthis_product = "wpp"; } if (window.wp_product_version === undefined) { window.wp_product_version = "wpp-6.2.7"; } if (window.addthis_share === undefined) { window.addthis_share = {}; } if (window.addthis_config === undefined) { window.addthis_config = {"data_track_clickback":true,"ui_atversion":"300"}; } if (window.addthis_plugin_info === undefined) { window.addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","plugin_name":"Share Buttons by AddThis","plugin_version":"6.2.7","plugin_mode":"AddThis","anonymous_profile_id":"wp-69e738f898913f10d0962ed49b3d01a3","page_info":{"template":"home","post_type":""},"sharing_enabled_on_post_via_metabox":false}; } 
+                    (function() {
+                      var first_load_interval_id = setInterval(function () {
+                        if (typeof window.addthis !== 'undefined') {
+                          window.clearInterval(first_load_interval_id);
+                          if (typeof window.addthis_layers !== 'undefined' && Object.getOwnPropertyNames(window.addthis_layers).length > 0) {
+                            window.addthis.layers(window.addthis_layers);
+                          }
+                          if (Array.isArray(window.addthis_layers_tools)) {
+                            for (i = 0; i < window.addthis_layers_tools.length; i++) {
+                              window.addthis.layers(window.addthis_layers_tools[i]);
+                            }
+                          }
+                        }
+                     },1000)
+                    }());
+                </script> <script data-cfasync="false" type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-590ce5ee53f9e4f4"></script><script type="text/javascript" id="google_cse_v2-js-extra">
+/* <![CDATA[ */
+var scriptParams = {"google_search_engine_id":"005977832149868611519:lhgdztbozfk"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://newsroom.haas.berkeley.edu/wp-content/plugins/wp-google-search/assets/js/google_cse_v2.js?ver=1" id="google_cse_v2-js"></script>
+<script type="text/javascript" src="https://newsroom.haas.berkeley.edu/wp-content/themes/haas-newsroom/js/haas-header-footer.js?ver=6.4.3" id="haas-header-footer-js"></script>
+<script type="text/javascript" src="https://kit.fontawesome.com/6468557144.js?ver=6.0.0" id="fontawesome-js"></script>
+<script type="text/javascript" src="https://newsroom.haas.berkeley.edu/wp-content/themes/haas-newsroom/js/navigation.js?ver=20151215" id="haas-newsroom-navigation-js"></script>
+<script type="text/javascript" src="https://newsroom.haas.berkeley.edu/wp-content/themes/haas-newsroom/js/skip-link-focus-fix.js?ver=20151215" id="haas-newsroom-skip-link-focus-fix-js"></script>
+<script type="text/javascript" src="https://newsroom.haas.berkeley.edu/wp-content/themes/haas-newsroom/js/slick-slider/slick/slick.min.js?ver=10032019" id="haas-newsroom-scripts-slick-js"></script>
+<script type="text/javascript" src="https://newsroom.haas.berkeley.edu/wp-content/themes/haas-newsroom/js/fancybox-master/dist/jquery.fancybox.min.js?ver=10032019" id="haas-newsroom-fancybox-js"></script>
+<script type="text/javascript" src="https://newsroom.haas.berkeley.edu/wp-content/themes/haas-newsroom/js/chosen/chosen.jquery.min.js?ver=10032019" id="haas-newsroom-chosen-js"></script>
+<script type="text/javascript" src="https://newsroom.haas.berkeley.edu/wp-content/themes/haas-newsroom/js/main.js?ver=05212020" id="haas-newsroom-scripts-main-js"></script>
+<script type="text/javascript" src="https://newsroom.haas.berkeley.edu/wp-content/plugins/easy-twitter-feed-widget/js/twitter-widgets.js?ver=1.0" id="do-etfw-twitter-widgets-js"></script>
+
+</body>
+</html>
