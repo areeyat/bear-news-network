@@ -1,16 +1,10 @@
-from flask import Flask
+from flask import Flask, render_template
 
-#creates an instance of a flask web application
 app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "Hello! <h1> Heading 1<h1>"
+    return render_template("index.html")
 
-@app.route("/<name>")
-def user(name):
-    return f"Hello {name}!"
-
-#runs the website
 if __name__ == "__main__":
-    app.run()
+    app.run(debug = True)
