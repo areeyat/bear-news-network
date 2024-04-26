@@ -10,23 +10,66 @@
 <body>
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">
-          <a class="navbar-brand" href="#">Bear News Network</a>
+          <a class="navbar-brand" href="/">Bear News Network</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
-              <a class="nav-link active" aria-current="page" href="#">Daily Cal</a>
-              <a class="nav-link" href="#">Berkeley EECS</a>
-              <a class="nav-link" href="#">MCB News</a>
-              <a class="nav-link" href="#">NBC Bay Area</a>
+              <a class="nav-link active" aria-current="page" href="daily_cal">Daily Cal</a>
+              <a class="nav-link" href="berkeley_eecs">Berkeley EECS</a>
+              <a class="nav-link" href="mcb">MCB News</a>
+              <a class="nav-link" href="nbc">NBC Bay Area</a>
+              <a class="nav-link" href="abc">ABC 7</a>
             </div>
           </div>
         </div>
       </nav>
-
-      <button type="button" class="btn btn-primary cubic-shuffle-btn" style="position: relative; left: 85%;">Cubic Shuffle</button>
-      <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+      <h1 style="text-align: center;">{% block pageTitle %}{% endblock %}</h1>
+      <div style="display: block; width: 100%; padding: 2%;"><button type="button" class="btn btn-primary cubic-shuffle-btn" style="float: right;" onclick="shuffle()">Cubic Shuffle</button></div>
+      <div style="padding: 1%" class="row"></div>
+      <div style="padding: 10px" class="row">
+        <div class="card col" style="width: 25rem; float: left; margin: 1%; padding: 2%;">
+          <div class="card-body">
+            <h5 class="card-title" id="title1">{% block articleTitle1 %}{% endblock %}</h5>
+            <p class="card-text">Article Summary 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis elementum tellus vel urna blandit, a congue metus interdum.</p>
+          </div>
+        </div>
+        <div class="card col" style="width: 25rem; float: left; margin: 1%; padding: 2%;">
+          <div class="card-body">
+            <h5 class="card-title" id="title2">{% block articleTitle2 %}{% endblock %}</h5>
+            <p class="card-text">Article Summary 2: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis elementum tellus vel urna blandit, a congue metus interdum.</p>
+          </div>
+        </div>
+        <div class="card col" style="width: 25rem; float: left; margin: 1%; padding: 2%;">
+          <div class="card-body">
+            <h5 class="card-title" id="title3">{% block articleTitle3 %}{% endblock %}</h5>
+            <p class="card-text">Article Summary 3: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis elementum tellus vel urna blandit, a congue metus interdum.</p>
+          </div>
+        </div>
+      </div>
+      
+      <div style="padding: 10px" class="row">
+        <div class="card col" style="width: 25rem; float: left; margin: 1%; padding: 2%;">
+          <div class="card-body">
+            <h5 class="card-title" id="title4">{% block articleTitle4 %}{% endblock %}</h5>
+            <p class="card-text">Article Summary 4: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis elementum tellus vel urna blandit, a congue metus interdum.</p>
+          </div>
+        </div>
+        <div class="card col" style="width: 25rem; float: left; margin: 1%; padding: 2%;">
+          <div class="card-body">
+            <h5 class="card-title" id="title5">{% block articleTitle5 %}{% endblock %}</h5>
+            <p class="card-text">Article Summary 5: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis elementum tellus vel urna blandit, a congue metus interdum.</p>
+          </div>
+        </div>
+        <div class="card col" style="width: 25rem; float: left; margin: 1%; padding: 2%;">
+          <div class="card-body">
+            <h5 class="card-title" id="title6">{% block articleTitle6 %}{% endblock %}</h5>
+            <p class="card-text">Article Summary 6: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis elementum tellus vel urna blandit, a congue metus interdum.</p>
+          </div>
+        </div>
+      </div>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
 </body>
 </html>
